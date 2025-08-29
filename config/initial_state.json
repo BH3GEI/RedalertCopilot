@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "timestamp": "2025-08-29 16:00:00",
+    "game_time": 0,
+    "last_strategic_update": null,
+    "last_tactical_update": null,
+    "last_reactive_update": null,
+    "last_cache_update": null
+  },
+  
+  "user_config": {
+    "main_goal": "快速rush摧毁敌人主基地",
+    "preferred_style": "aggressive_infantry_rush",
+    "custom_instructions": "优先攻击敌方生产建筑，不造防空单位"
+  },
+  
+  "battlefield_state": {
+    "resources": {
+      "cash": 5000,
+      "power": 0,
+      "power_consumed": 0,
+      "power_total": 0
+    },
+    "my_forces": {
+      "units": {},
+      "buildings": {}
+    },
+    "enemy_intel": {
+      "units": {},
+      "buildings": {},
+      "estimated_resources": 5000,
+      "aggressive_level": "unknown"
+    },
+    "map_control": {
+      "controlled_areas": [],
+      "contested_areas": [],
+      "enemy_areas": [],
+      "resource_points": {
+        "controlled": 0,
+        "available": 0,
+        "enemy_controlled": 0
+      }
+    }
+  },
+  
+  "strategic_plan": {
+    "current_phase": "game_start",
+    "build_priority": ["电厂", "兵营", "步兵"],
+    "resource_allocation": {"military": 60, "economy": 30, "defense": 10},
+    "next_milestone": "建造第一个电厂和兵营",
+    "win_condition": "快速rush敌方主基地"
+  },
+  
+  "tactical_status": {
+    "current_focus": "初始建设",
+    "active_formations": {},
+    "immediate_tasks": [],
+    "production_plan": {}
+  },
+  
+  "reactive_alerts": {
+    "immediate_threats": [],
+    "opportunities": [],
+    "emergency_actions": [],
+    "threat_level": "safe"
+  },
+  
+  "decision_cache": {
+    "strategic_patterns": {
+      "early_game_standard": {
+        "triggers": ["游戏时间<300秒", "资源>3000"],
+        "recommended_response": "double_barracks_infantry_rush",
+        "confidence": 0.8
+      }
+    },
+    "tactical_sequences": {
+      "infantry_retreat": [
+        {"action": "select_unit", "params": {"type": "步兵"}},
+        {"action": "move_actor", "params": {"direction": "west", "distance": 5}}
+      ]
+    },
+    "reactive_responses": {
+      "tank_spotted": {
+        "immediate": "retreat_infantry",
+        "followup": "build_rockets",
+        "confidence": 0.9
+      }
+    }
+  },
+  
+  "production_queues": {},
+  
+  "action_history": []
+}

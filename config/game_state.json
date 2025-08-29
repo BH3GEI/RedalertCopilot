@@ -1,0 +1,314 @@
+{
+  "meta": {
+    "timestamp": "2025-08-29 18:22:56",
+    "game_time": 0,
+    "last_strategic_update": "2025-08-29 18:22:56",
+    "last_tactical_update": "2025-08-29 18:22:55",
+    "last_reactive_update": "2025-08-29 18:22:55",
+    "last_cache_update": "2025-08-29 18:22:55",
+    "last_battlefield_update": "2025-08-29 18:22:56"
+  },
+  "user_config": {},
+  "battlefield_state": {
+    "resources": {
+      "cash": 3000,
+      "resources": 120,
+      "power": 25,
+      "power_consumed": 15,
+      "power_total": 40,
+      "last_resource_update": "2025-08-29 18:22:55"
+    },
+    "my_forces": {
+      "units": {
+        "步兵": {
+          "count": 1,
+          "positions": [
+            [
+              20,
+              25
+            ]
+          ],
+          "avg_hp": 100,
+          "hp_percentage": 100
+        }
+      }
+    },
+    "enemy_intel": {
+      "units": {
+        "步兵": {
+          "count": 1,
+          "positions": [
+            [
+              20,
+              25
+            ]
+          ],
+          "avg_hp": 100,
+          "hp_percentage": 100
+        }
+      }
+    }
+  },
+  "strategic_plan": {
+    "current_phase": "early_rush",
+    "build_priority": [
+      "兵营",
+      "步兵",
+      "火箭兵"
+    ],
+    "resource_allocation": {
+      "military": 70,
+      "economy": 20,
+      "defense": 10
+    },
+    "next_milestone": "完成双兵营，训练10个步兵",
+    "estimated_timeline": "3分钟内",
+    "enemy_analysis": "敌人采用防御策略，需要快速突破",
+    "strategy_adjustment": "增加火箭兵产量应对敌方坦克"
+  },
+  "tactical_status": {
+    "current_focus": "扩充生产",
+    "active_formations": {
+      "group_1": {
+        "role": "attack_north",
+        "target_area": [
+          20,
+          10
+        ]
+      },
+      "group_2": {
+        "role": "defend_base",
+        "target_area": [
+          15,
+          20
+        ]
+      }
+    },
+    "immediate_tasks": [
+      {
+        "action": "start_production",
+        "params": {
+          "units": [
+            {
+              "unit_type": "兵营",
+              "quantity": 2
+            }
+          ]
+        },
+        "priority": 1
+      },
+      {
+        "action": "start_production",
+        "params": {
+          "units": [
+            {
+              "unit_type": "步兵",
+              "quantity": 10
+            }
+          ]
+        },
+        "priority": 2
+      },
+      {
+        "action": "select_unit",
+        "params": {
+          "type": "步兵",
+          "faction": "己方"
+        },
+        "priority": 3
+      }
+    ],
+    "production_plan": {
+      "prioritize_queues": [
+        "Infantry"
+      ],
+      "pause_queues": [
+        "Vehicle",
+        "Defense",
+        "Aircraft"
+      ]
+    }
+  },
+  "reactive_alerts": {
+    "immediate_threats": [],
+    "opportunities": [],
+    "last_threat_scan": "2025-08-29 18:22:55",
+    "threat_level": "safe"
+  },
+  "decision_cache": {
+    "strategic_patterns": {
+      "tank_threat_early_game": {
+        "triggers": [
+          "敌坦克数量>=2",
+          "我方步兵>5",
+          "游戏时间<300秒"
+        ],
+        "recommended_response": "immediate_infantry_retreat",
+        "confidence": 0.85,
+        "success_rate": 0.9
+      },
+      "enemy_tank_rush_early": {
+        "triggers": [
+          "敌坦克数量>2",
+          "游戏时间<5分钟"
+        ],
+        "recommended_response": "mass_infantry_retreat_and_rocket_production",
+        "confidence": 0.85,
+        "success_rate": 0.9
+      },
+      "early_resource_expansion": {
+        "triggers": [
+          "资源状态=中等",
+          "地图控制=平衡",
+          "游戏阶段=早期冲锋"
+        ],
+        "recommended_response": "持续扩展资源点",
+        "confidence": 0.95,
+        "success_rate": 0.85
+      }
+    },
+    "performance_analysis": {
+      "successful_strategies": [
+        {
+          "pattern": "early_resource_expansion",
+          "success_rate": 0.85,
+          "sample_size": 5
+        }
+      ],
+      "failed_strategies": []
+    },
+    "last_analysis": "2025-08-29 18:22:55"
+  },
+  "production_queues": {
+    "Building": {
+      "queue_type": "Building",
+      "total_items": 0,
+      "has_ready": false,
+      "active_items": []
+    },
+    "Infantry": {
+      "queue_type": "Infantry",
+      "total_items": 0,
+      "has_ready": false,
+      "active_items": []
+    },
+    "Vehicle": {
+      "queue_type": "Vehicle",
+      "total_items": 0,
+      "has_ready": false,
+      "active_items": []
+    },
+    "Defense": {
+      "queue_type": "Defense",
+      "total_items": 0,
+      "has_ready": false,
+      "active_items": []
+    },
+    "Aircraft": {
+      "queue_type": "Aircraft",
+      "total_items": 0,
+      "has_ready": false,
+      "active_items": []
+    }
+  },
+  "action_history": [
+    {
+      "timestamp": "2025-08-29 18:13:21",
+      "agent": "strategic",
+      "action": "expand_to_north_resources",
+      "priority": 3,
+      "timeline": "5分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:13:21",
+      "agent": "strategic",
+      "action": "tech_rush_advanced_units",
+      "priority": 4,
+      "timeline": "8分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:13:34",
+      "agent": "strategic",
+      "action": "expand_to_north_resources",
+      "priority": 3,
+      "timeline": "5分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:13:34",
+      "agent": "strategic",
+      "action": "tech_rush_advanced_units",
+      "priority": 4,
+      "timeline": "8分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:13:49",
+      "agent": "strategic",
+      "action": "expand_to_north_resources",
+      "priority": 3,
+      "timeline": "5分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:13:49",
+      "agent": "strategic",
+      "action": "tech_rush_advanced_units",
+      "priority": 4,
+      "timeline": "8分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:14:03",
+      "agent": "strategic",
+      "action": "expand_to_north_resources",
+      "priority": 3,
+      "timeline": "5分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:14:03",
+      "agent": "strategic",
+      "action": "tech_rush_advanced_units",
+      "priority": 4,
+      "timeline": "8分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:14:20",
+      "agent": "strategic",
+      "action": "expand_to_north_resources",
+      "priority": 3,
+      "timeline": "5分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:14:20",
+      "agent": "strategic",
+      "action": "tech_rush_advanced_units",
+      "priority": 4,
+      "timeline": "8分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:14:34",
+      "agent": "strategic",
+      "action": "expand_to_north_resources",
+      "priority": 3,
+      "timeline": "5分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:14:34",
+      "agent": "strategic",
+      "action": "tech_rush_advanced_units",
+      "priority": 4,
+      "timeline": "8分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:22:56",
+      "agent": "strategic",
+      "action": "expand_to_north_resources",
+      "priority": 3,
+      "timeline": "5分钟后"
+    },
+    {
+      "timestamp": "2025-08-29 18:22:56",
+      "agent": "strategic",
+      "action": "tech_rush_advanced_units",
+      "priority": 4,
+      "timeline": "8分钟后"
+    }
+  ]
+}

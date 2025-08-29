@@ -1,0 +1,2180 @@
+18:13:17 [INFO] 已启动
+18:13:17 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:17 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:17 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:17 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:17 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:17 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:17 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:18 [INFO] 模拟执行: player_baseinfo_query
+18:13:18 [INFO] 参数: {}
+18:13:18 [INFO] 请求ID: player_baseinfo_query_1756462397992
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 模拟执行: screen_info_query
+18:13:18 [INFO] 参数: {}
+18:13:18 [INFO] 请求ID: screen_info_query_1756462397992
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:18 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:18 [INFO] 模拟执行: query_production_queue
+18:13:18 [INFO] 参数: {"queueType": "Building"}
+18:13:18 [INFO] 请求ID: query_production_queue_1756462397994
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 模拟执行: query_production_queue
+18:13:18 [INFO] 参数: {"queueType": "Infantry"}
+18:13:18 [INFO] 请求ID: query_production_queue_1756462397994
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 模拟执行: query_production_queue
+18:13:18 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:18 [INFO] 请求ID: query_production_queue_1756462397994
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 模拟执行: query_production_queue
+18:13:18 [INFO] 参数: {"queueType": "Defense"}
+18:13:18 [INFO] 请求ID: query_production_queue_1756462397994
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 模拟执行: query_production_queue
+18:13:18 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:18 [INFO] 请求ID: query_production_queue_1756462397994
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 模拟执行: query_actor
+18:13:18 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:18 [INFO] 请求ID: query_actor_1756462398199
+18:13:18 [INFO] 模拟响应: 成功
+18:13:18 [INFO] 模拟执行: query_actor
+18:13:18 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:18 [INFO] 请求ID: query_actor_1756462398199
+18:13:18 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:20 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:20 [INFO] 模拟执行: player_baseinfo_query
+18:13:20 [INFO] 参数: {}
+18:13:20 [INFO] 请求ID: player_baseinfo_query_1756462400015
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 模拟执行: screen_info_query
+18:13:20 [INFO] 参数: {}
+18:13:20 [INFO] 请求ID: screen_info_query_1756462400015
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:20 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:20 [INFO] 模拟执行: query_production_queue
+18:13:20 [INFO] 参数: {"queueType": "Building"}
+18:13:20 [INFO] 请求ID: query_production_queue_1756462400015
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 模拟执行: query_production_queue
+18:13:20 [INFO] 参数: {"queueType": "Infantry"}
+18:13:20 [INFO] 请求ID: query_production_queue_1756462400015
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 模拟执行: query_production_queue
+18:13:20 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:20 [INFO] 请求ID: query_production_queue_1756462400015
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 模拟执行: query_production_queue
+18:13:20 [INFO] 参数: {"queueType": "Defense"}
+18:13:20 [INFO] 请求ID: query_production_queue_1756462400015
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 模拟执行: query_production_queue
+18:13:20 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:20 [INFO] 请求ID: query_production_queue_1756462400015
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 模拟执行: query_actor
+18:13:20 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:20 [INFO] 请求ID: query_actor_1756462400158
+18:13:20 [INFO] 模拟响应: 成功
+18:13:20 [INFO] 模拟执行: query_actor
+18:13:20 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:20 [INFO] 请求ID: query_actor_1756462400158
+18:13:20 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:22 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:22 [INFO] 模拟执行: player_baseinfo_query
+18:13:22 [INFO] 参数: {}
+18:13:22 [INFO] 请求ID: player_baseinfo_query_1756462402031
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 模拟执行: screen_info_query
+18:13:22 [INFO] 参数: {}
+18:13:22 [INFO] 请求ID: screen_info_query_1756462402031
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:22 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:22 [INFO] 模拟执行: query_production_queue
+18:13:22 [INFO] 参数: {"queueType": "Building"}
+18:13:22 [INFO] 请求ID: query_production_queue_1756462402031
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 模拟执行: query_production_queue
+18:13:22 [INFO] 参数: {"queueType": "Infantry"}
+18:13:22 [INFO] 请求ID: query_production_queue_1756462402031
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 模拟执行: query_production_queue
+18:13:22 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:22 [INFO] 请求ID: query_production_queue_1756462402031
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 模拟执行: query_production_queue
+18:13:22 [INFO] 参数: {"queueType": "Defense"}
+18:13:22 [INFO] 请求ID: query_production_queue_1756462402031
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 模拟执行: query_production_queue
+18:13:22 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:22 [INFO] 请求ID: query_production_queue_1756462402031
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 模拟执行: query_actor
+18:13:22 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:22 [INFO] 请求ID: query_actor_1756462402138
+18:13:22 [INFO] 模拟响应: 成功
+18:13:22 [INFO] 模拟执行: query_actor
+18:13:22 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:22 [INFO] 请求ID: query_actor_1756462402138
+18:13:22 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:24 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:24 [INFO] 模拟执行: player_baseinfo_query
+18:13:24 [INFO] 参数: {}
+18:13:24 [INFO] 请求ID: player_baseinfo_query_1756462404048
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 模拟执行: screen_info_query
+18:13:24 [INFO] 参数: {}
+18:13:24 [INFO] 请求ID: screen_info_query_1756462404048
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:24 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:24 [INFO] 模拟执行: query_production_queue
+18:13:24 [INFO] 参数: {"queueType": "Building"}
+18:13:24 [INFO] 请求ID: query_production_queue_1756462404048
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 模拟执行: query_production_queue
+18:13:24 [INFO] 参数: {"queueType": "Infantry"}
+18:13:24 [INFO] 请求ID: query_production_queue_1756462404048
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 模拟执行: query_production_queue
+18:13:24 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:24 [INFO] 请求ID: query_production_queue_1756462404048
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 模拟执行: query_production_queue
+18:13:24 [INFO] 参数: {"queueType": "Defense"}
+18:13:24 [INFO] 请求ID: query_production_queue_1756462404048
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 模拟执行: query_production_queue
+18:13:24 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:24 [INFO] 请求ID: query_production_queue_1756462404048
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 模拟执行: query_actor
+18:13:24 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:24 [INFO] 请求ID: query_actor_1756462404225
+18:13:24 [INFO] 模拟响应: 成功
+18:13:24 [INFO] 模拟执行: query_actor
+18:13:24 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:24 [INFO] 请求ID: query_actor_1756462404225
+18:13:24 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:26 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:26 [INFO] 模拟执行: player_baseinfo_query
+18:13:26 [INFO] 参数: {}
+18:13:26 [INFO] 请求ID: player_baseinfo_query_1756462406065
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 模拟执行: screen_info_query
+18:13:26 [INFO] 参数: {}
+18:13:26 [INFO] 请求ID: screen_info_query_1756462406065
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:26 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:26 [INFO] 模拟执行: query_production_queue
+18:13:26 [INFO] 参数: {"queueType": "Building"}
+18:13:26 [INFO] 请求ID: query_production_queue_1756462406065
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 模拟执行: query_production_queue
+18:13:26 [INFO] 参数: {"queueType": "Infantry"}
+18:13:26 [INFO] 请求ID: query_production_queue_1756462406065
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 模拟执行: query_production_queue
+18:13:26 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:26 [INFO] 请求ID: query_production_queue_1756462406065
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 模拟执行: query_production_queue
+18:13:26 [INFO] 参数: {"queueType": "Defense"}
+18:13:26 [INFO] 请求ID: query_production_queue_1756462406065
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 模拟执行: query_production_queue
+18:13:26 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:26 [INFO] 请求ID: query_production_queue_1756462406065
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 模拟执行: query_actor
+18:13:26 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:26 [INFO] 请求ID: query_actor_1756462406209
+18:13:26 [INFO] 模拟响应: 成功
+18:13:26 [INFO] 模拟执行: query_actor
+18:13:26 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:26 [INFO] 请求ID: query_actor_1756462406209
+18:13:26 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:28 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:28 [INFO] 模拟执行: player_baseinfo_query
+18:13:28 [INFO] 参数: {}
+18:13:28 [INFO] 请求ID: player_baseinfo_query_1756462408082
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 模拟执行: screen_info_query
+18:13:28 [INFO] 参数: {}
+18:13:28 [INFO] 请求ID: screen_info_query_1756462408082
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:28 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:28 [INFO] 模拟执行: query_production_queue
+18:13:28 [INFO] 参数: {"queueType": "Building"}
+18:13:28 [INFO] 请求ID: query_production_queue_1756462408082
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 模拟执行: query_production_queue
+18:13:28 [INFO] 参数: {"queueType": "Infantry"}
+18:13:28 [INFO] 请求ID: query_production_queue_1756462408082
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 模拟执行: query_production_queue
+18:13:28 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:28 [INFO] 请求ID: query_production_queue_1756462408082
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 模拟执行: query_production_queue
+18:13:28 [INFO] 参数: {"queueType": "Defense"}
+18:13:28 [INFO] 请求ID: query_production_queue_1756462408082
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 模拟执行: query_production_queue
+18:13:28 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:28 [INFO] 请求ID: query_production_queue_1756462408082
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 模拟执行: query_actor
+18:13:28 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:28 [INFO] 请求ID: query_actor_1756462408189
+18:13:28 [INFO] 模拟响应: 成功
+18:13:28 [INFO] 模拟执行: query_actor
+18:13:28 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:28 [INFO] 请求ID: query_actor_1756462408189
+18:13:28 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:30 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:30 [INFO] 模拟执行: player_baseinfo_query
+18:13:30 [INFO] 参数: {}
+18:13:30 [INFO] 请求ID: player_baseinfo_query_1756462410101
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 模拟执行: screen_info_query
+18:13:30 [INFO] 参数: {}
+18:13:30 [INFO] 请求ID: screen_info_query_1756462410101
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:30 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:30 [INFO] 模拟执行: query_production_queue
+18:13:30 [INFO] 参数: {"queueType": "Building"}
+18:13:30 [INFO] 请求ID: query_production_queue_1756462410101
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 模拟执行: query_production_queue
+18:13:30 [INFO] 参数: {"queueType": "Infantry"}
+18:13:30 [INFO] 请求ID: query_production_queue_1756462410101
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 模拟执行: query_production_queue
+18:13:30 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:30 [INFO] 请求ID: query_production_queue_1756462410101
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 模拟执行: query_production_queue
+18:13:30 [INFO] 参数: {"queueType": "Defense"}
+18:13:30 [INFO] 请求ID: query_production_queue_1756462410101
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 模拟执行: query_production_queue
+18:13:30 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:30 [INFO] 请求ID: query_production_queue_1756462410101
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 模拟执行: query_actor
+18:13:30 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:30 [INFO] 请求ID: query_actor_1756462410259
+18:13:30 [INFO] 模拟响应: 成功
+18:13:30 [INFO] 模拟执行: query_actor
+18:13:30 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:30 [INFO] 请求ID: query_actor_1756462410259
+18:13:30 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:32 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:32 [INFO] 模拟执行: player_baseinfo_query
+18:13:32 [INFO] 参数: {}
+18:13:32 [INFO] 请求ID: player_baseinfo_query_1756462412114
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 模拟执行: screen_info_query
+18:13:32 [INFO] 参数: {}
+18:13:32 [INFO] 请求ID: screen_info_query_1756462412114
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:32 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:32 [INFO] 模拟执行: query_production_queue
+18:13:32 [INFO] 参数: {"queueType": "Building"}
+18:13:32 [INFO] 请求ID: query_production_queue_1756462412114
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 模拟执行: query_production_queue
+18:13:32 [INFO] 参数: {"queueType": "Infantry"}
+18:13:32 [INFO] 请求ID: query_production_queue_1756462412114
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 模拟执行: query_production_queue
+18:13:32 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:32 [INFO] 请求ID: query_production_queue_1756462412114
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 模拟执行: query_production_queue
+18:13:32 [INFO] 参数: {"queueType": "Defense"}
+18:13:32 [INFO] 请求ID: query_production_queue_1756462412114
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 模拟执行: query_production_queue
+18:13:32 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:32 [INFO] 请求ID: query_production_queue_1756462412114
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 模拟执行: query_actor
+18:13:32 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:32 [INFO] 请求ID: query_actor_1756462412234
+18:13:32 [INFO] 模拟响应: 成功
+18:13:32 [INFO] 模拟执行: query_actor
+18:13:32 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:32 [INFO] 请求ID: query_actor_1756462412234
+18:13:32 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:34 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:34 [INFO] 模拟执行: player_baseinfo_query
+18:13:34 [INFO] 参数: {}
+18:13:34 [INFO] 请求ID: player_baseinfo_query_1756462414135
+18:13:34 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 模拟执行: screen_info_query
+18:13:34 [INFO] 参数: {}
+18:13:34 [INFO] 请求ID: screen_info_query_1756462414135
+18:13:34 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:34 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:34 [INFO] 模拟执行: query_production_queue
+18:13:34 [INFO] 参数: {"queueType": "Building"}
+18:13:34 [INFO] 请求ID: query_production_queue_1756462414135
+18:13:34 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 模拟执行: query_production_queue
+18:13:34 [INFO] 参数: {"queueType": "Infantry"}
+18:13:34 [INFO] 请求ID: query_production_queue_1756462414135
+18:13:34 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 模拟执行: query_production_queue
+18:13:34 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:34 [INFO] 请求ID: query_production_queue_1756462414135
+18:13:34 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 模拟执行: query_production_queue
+18:13:34 [INFO] 参数: {"queueType": "Defense"}
+18:13:34 [INFO] 请求ID: query_production_queue_1756462414135
+18:13:34 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 模拟执行: query_production_queue
+18:13:34 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:34 [INFO] 请求ID: query_production_queue_1756462414135
+18:13:34 [INFO] 模拟响应: 成功
+18:13:34 [INFO] 模拟执行: query_actor
+18:13:34 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:34 [INFO] 请求ID: query_actor_1756462414311
+18:13:34 [INFO] 模拟响应: 成功
+18:13:35 [INFO] 模拟执行: query_actor
+18:13:35 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:35 [INFO] 请求ID: query_actor_1756462414311
+18:13:35 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:36 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:36 [INFO] 模拟执行: player_baseinfo_query
+18:13:36 [INFO] 参数: {}
+18:13:36 [INFO] 请求ID: player_baseinfo_query_1756462416155
+18:13:36 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 模拟执行: screen_info_query
+18:13:36 [INFO] 参数: {}
+18:13:36 [INFO] 请求ID: screen_info_query_1756462416155
+18:13:36 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:36 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:36 [INFO] 模拟执行: query_production_queue
+18:13:36 [INFO] 参数: {"queueType": "Building"}
+18:13:36 [INFO] 请求ID: query_production_queue_1756462416155
+18:13:36 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 模拟执行: query_production_queue
+18:13:36 [INFO] 参数: {"queueType": "Infantry"}
+18:13:36 [INFO] 请求ID: query_production_queue_1756462416155
+18:13:36 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 模拟执行: query_production_queue
+18:13:36 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:36 [INFO] 请求ID: query_production_queue_1756462416155
+18:13:36 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 模拟执行: query_production_queue
+18:13:36 [INFO] 参数: {"queueType": "Defense"}
+18:13:36 [INFO] 请求ID: query_production_queue_1756462416155
+18:13:36 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 模拟执行: query_production_queue
+18:13:36 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:36 [INFO] 请求ID: query_production_queue_1756462416155
+18:13:36 [INFO] 模拟响应: 成功
+18:13:36 [INFO] 模拟执行: query_actor
+18:13:36 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:36 [INFO] 请求ID: query_actor_1756462416299
+18:13:36 [INFO] 模拟响应: 成功
+18:13:37 [INFO] 模拟执行: query_actor
+18:13:37 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:37 [INFO] 请求ID: query_actor_1756462416299
+18:13:37 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:38 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:38 [INFO] 模拟执行: player_baseinfo_query
+18:13:38 [INFO] 参数: {}
+18:13:38 [INFO] 请求ID: player_baseinfo_query_1756462418176
+18:13:38 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 模拟执行: screen_info_query
+18:13:38 [INFO] 参数: {}
+18:13:38 [INFO] 请求ID: screen_info_query_1756462418176
+18:13:38 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:38 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:38 [INFO] 模拟执行: query_production_queue
+18:13:38 [INFO] 参数: {"queueType": "Building"}
+18:13:38 [INFO] 请求ID: query_production_queue_1756462418176
+18:13:38 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 模拟执行: query_production_queue
+18:13:38 [INFO] 参数: {"queueType": "Infantry"}
+18:13:38 [INFO] 请求ID: query_production_queue_1756462418176
+18:13:38 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 模拟执行: query_production_queue
+18:13:38 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:38 [INFO] 请求ID: query_production_queue_1756462418176
+18:13:38 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 模拟执行: query_production_queue
+18:13:38 [INFO] 参数: {"queueType": "Defense"}
+18:13:38 [INFO] 请求ID: query_production_queue_1756462418176
+18:13:38 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 模拟执行: query_production_queue
+18:13:38 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:38 [INFO] 请求ID: query_production_queue_1756462418176
+18:13:38 [INFO] 模拟响应: 成功
+18:13:38 [INFO] 模拟执行: query_actor
+18:13:38 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:38 [INFO] 请求ID: query_actor_1756462418287
+18:13:38 [INFO] 模拟响应: 成功
+18:13:39 [INFO] 模拟执行: query_actor
+18:13:39 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:39 [INFO] 请求ID: query_actor_1756462418287
+18:13:39 [INFO] 模拟响应: 成功
+18:13:40 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:40 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:40 [INFO] 模拟执行: player_baseinfo_query
+18:13:40 [INFO] 参数: {}
+18:13:40 [INFO] 请求ID: player_baseinfo_query_1756462420188
+18:13:40 [INFO] 模拟响应: 成功
+18:13:40 [INFO] 模拟执行: screen_info_query
+18:13:40 [INFO] 参数: {}
+18:13:40 [INFO] 请求ID: screen_info_query_1756462420188
+18:13:40 [INFO] 模拟响应: 成功
+18:13:40 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:40 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:40 [INFO] 模拟执行: query_production_queue
+18:13:40 [INFO] 参数: {"queueType": "Building"}
+18:13:40 [INFO] 请求ID: query_production_queue_1756462420188
+18:13:40 [INFO] 模拟响应: 成功
+18:13:40 [INFO] 模拟执行: query_production_queue
+18:13:40 [INFO] 参数: {"queueType": "Infantry"}
+18:13:40 [INFO] 请求ID: query_production_queue_1756462420188
+18:13:40 [INFO] 模拟响应: 成功
+18:13:40 [INFO] 模拟执行: query_production_queue
+18:13:40 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:40 [INFO] 请求ID: query_production_queue_1756462420188
+18:13:40 [INFO] 模拟响应: 成功
+18:13:40 [INFO] 模拟执行: query_production_queue
+18:13:40 [INFO] 参数: {"queueType": "Defense"}
+18:13:40 [INFO] 请求ID: query_production_queue_1756462420188
+18:13:40 [INFO] 模拟响应: 成功
+18:13:40 [INFO] 模拟执行: query_production_queue
+18:13:40 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:40 [INFO] 请求ID: query_production_queue_1756462420188
+18:13:40 [INFO] 模拟响应: 成功
+18:13:41 [INFO] 模拟执行: query_actor
+18:13:41 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:41 [INFO] 请求ID: query_actor_1756462420371
+18:13:41 [INFO] 模拟响应: 成功
+18:13:41 [INFO] 模拟执行: query_actor
+18:13:41 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:41 [INFO] 请求ID: query_actor_1756462420371
+18:13:41 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:42 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:42 [INFO] 模拟执行: player_baseinfo_query
+18:13:42 [INFO] 参数: {}
+18:13:42 [INFO] 请求ID: player_baseinfo_query_1756462422201
+18:13:42 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 模拟执行: screen_info_query
+18:13:42 [INFO] 参数: {}
+18:13:42 [INFO] 请求ID: screen_info_query_1756462422201
+18:13:42 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:42 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:42 [INFO] 模拟执行: query_production_queue
+18:13:42 [INFO] 参数: {"queueType": "Building"}
+18:13:42 [INFO] 请求ID: query_production_queue_1756462422201
+18:13:42 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 模拟执行: query_production_queue
+18:13:42 [INFO] 参数: {"queueType": "Infantry"}
+18:13:42 [INFO] 请求ID: query_production_queue_1756462422201
+18:13:42 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 模拟执行: query_production_queue
+18:13:42 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:42 [INFO] 请求ID: query_production_queue_1756462422201
+18:13:42 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 模拟执行: query_production_queue
+18:13:42 [INFO] 参数: {"queueType": "Defense"}
+18:13:42 [INFO] 请求ID: query_production_queue_1756462422201
+18:13:42 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 模拟执行: query_production_queue
+18:13:42 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:42 [INFO] 请求ID: query_production_queue_1756462422201
+18:13:42 [INFO] 模拟响应: 成功
+18:13:42 [INFO] 模拟执行: query_actor
+18:13:42 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:42 [INFO] 请求ID: query_actor_1756462422354
+18:13:42 [INFO] 模拟响应: 成功
+18:13:43 [INFO] 模拟执行: query_actor
+18:13:43 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:43 [INFO] 请求ID: query_actor_1756462422354
+18:13:43 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:44 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:44 [INFO] 模拟执行: player_baseinfo_query
+18:13:44 [INFO] 参数: {}
+18:13:44 [INFO] 请求ID: player_baseinfo_query_1756462424220
+18:13:44 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 模拟执行: screen_info_query
+18:13:44 [INFO] 参数: {}
+18:13:44 [INFO] 请求ID: screen_info_query_1756462424220
+18:13:44 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:44 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:44 [INFO] 模拟执行: query_production_queue
+18:13:44 [INFO] 参数: {"queueType": "Building"}
+18:13:44 [INFO] 请求ID: query_production_queue_1756462424220
+18:13:44 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 模拟执行: query_production_queue
+18:13:44 [INFO] 参数: {"queueType": "Infantry"}
+18:13:44 [INFO] 请求ID: query_production_queue_1756462424220
+18:13:44 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 模拟执行: query_production_queue
+18:13:44 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:44 [INFO] 请求ID: query_production_queue_1756462424220
+18:13:44 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 模拟执行: query_production_queue
+18:13:44 [INFO] 参数: {"queueType": "Defense"}
+18:13:44 [INFO] 请求ID: query_production_queue_1756462424220
+18:13:44 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 模拟执行: query_production_queue
+18:13:44 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:44 [INFO] 请求ID: query_production_queue_1756462424220
+18:13:44 [INFO] 模拟响应: 成功
+18:13:44 [INFO] 模拟执行: query_actor
+18:13:44 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:44 [INFO] 请求ID: query_actor_1756462424339
+18:13:44 [INFO] 模拟响应: 成功
+18:13:45 [INFO] 模拟执行: query_actor
+18:13:45 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:45 [INFO] 请求ID: query_actor_1756462424339
+18:13:45 [INFO] 模拟响应: 成功
+18:13:46 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:46 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:46 [INFO] 模拟执行: player_baseinfo_query
+18:13:46 [INFO] 参数: {}
+18:13:46 [INFO] 请求ID: player_baseinfo_query_1756462426240
+18:13:46 [INFO] 模拟响应: 成功
+18:13:46 [INFO] 模拟执行: screen_info_query
+18:13:46 [INFO] 参数: {}
+18:13:46 [INFO] 请求ID: screen_info_query_1756462426240
+18:13:46 [INFO] 模拟响应: 成功
+18:13:46 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:46 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:46 [INFO] 模拟执行: query_production_queue
+18:13:46 [INFO] 参数: {"queueType": "Building"}
+18:13:46 [INFO] 请求ID: query_production_queue_1756462426241
+18:13:46 [INFO] 模拟响应: 成功
+18:13:46 [INFO] 模拟执行: query_production_queue
+18:13:46 [INFO] 参数: {"queueType": "Infantry"}
+18:13:46 [INFO] 请求ID: query_production_queue_1756462426241
+18:13:46 [INFO] 模拟响应: 成功
+18:13:46 [INFO] 模拟执行: query_production_queue
+18:13:46 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:46 [INFO] 请求ID: query_production_queue_1756462426241
+18:13:46 [INFO] 模拟响应: 成功
+18:13:46 [INFO] 模拟执行: query_production_queue
+18:13:46 [INFO] 参数: {"queueType": "Defense"}
+18:13:46 [INFO] 请求ID: query_production_queue_1756462426241
+18:13:46 [INFO] 模拟响应: 成功
+18:13:46 [INFO] 模拟执行: query_production_queue
+18:13:46 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:46 [INFO] 请求ID: query_production_queue_1756462426241
+18:13:46 [INFO] 模拟响应: 成功
+18:13:47 [INFO] 模拟执行: query_actor
+18:13:47 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:47 [INFO] 请求ID: query_actor_1756462426426
+18:13:47 [INFO] 模拟响应: 成功
+18:13:47 [INFO] 模拟执行: query_actor
+18:13:47 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:47 [INFO] 请求ID: query_actor_1756462426426
+18:13:47 [INFO] 模拟响应: 成功
+18:13:48 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:48 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:48 [INFO] 模拟执行: player_baseinfo_query
+18:13:48 [INFO] 参数: {}
+18:13:48 [INFO] 请求ID: player_baseinfo_query_1756462428252
+18:13:48 [INFO] 模拟响应: 成功
+18:13:48 [INFO] 模拟执行: screen_info_query
+18:13:48 [INFO] 参数: {}
+18:13:48 [INFO] 请求ID: screen_info_query_1756462428253
+18:13:48 [INFO] 模拟响应: 成功
+18:13:48 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:48 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:48 [INFO] 模拟执行: query_production_queue
+18:13:48 [INFO] 参数: {"queueType": "Building"}
+18:13:48 [INFO] 请求ID: query_production_queue_1756462428253
+18:13:48 [INFO] 模拟响应: 成功
+18:13:48 [INFO] 模拟执行: query_production_queue
+18:13:48 [INFO] 参数: {"queueType": "Infantry"}
+18:13:48 [INFO] 请求ID: query_production_queue_1756462428253
+18:13:48 [INFO] 模拟响应: 成功
+18:13:48 [INFO] 模拟执行: query_production_queue
+18:13:48 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:48 [INFO] 请求ID: query_production_queue_1756462428253
+18:13:48 [INFO] 模拟响应: 成功
+18:13:48 [INFO] 模拟执行: query_production_queue
+18:13:48 [INFO] 参数: {"queueType": "Defense"}
+18:13:48 [INFO] 请求ID: query_production_queue_1756462428253
+18:13:48 [INFO] 模拟响应: 成功
+18:13:48 [INFO] 模拟执行: query_production_queue
+18:13:48 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:48 [INFO] 请求ID: query_production_queue_1756462428253
+18:13:48 [INFO] 模拟响应: 成功
+18:13:49 [INFO] 模拟执行: query_actor
+18:13:49 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:49 [INFO] 请求ID: query_actor_1756462428409
+18:13:49 [INFO] 模拟响应: 成功
+18:13:49 [INFO] 模拟执行: query_actor
+18:13:49 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:49 [INFO] 请求ID: query_actor_1756462428409
+18:13:49 [INFO] 模拟响应: 成功
+18:13:50 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:50 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:50 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:50 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:50 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:50 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:50 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:50 [INFO] 模拟执行: player_baseinfo_query
+18:13:50 [INFO] 参数: {}
+18:13:50 [INFO] 请求ID: player_baseinfo_query_1756462430264
+18:13:50 [INFO] 模拟响应: 成功
+18:13:50 [INFO] 模拟执行: screen_info_query
+18:13:50 [INFO] 参数: {}
+18:13:50 [INFO] 请求ID: screen_info_query_1756462430264
+18:13:50 [INFO] 模拟响应: 成功
+18:13:50 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:50 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:50 [INFO] 模拟执行: query_production_queue
+18:13:50 [INFO] 参数: {"queueType": "Building"}
+18:13:50 [INFO] 请求ID: query_production_queue_1756462430264
+18:13:50 [INFO] 模拟响应: 成功
+18:13:50 [INFO] 模拟执行: query_production_queue
+18:13:50 [INFO] 参数: {"queueType": "Infantry"}
+18:13:50 [INFO] 请求ID: query_production_queue_1756462430264
+18:13:50 [INFO] 模拟响应: 成功
+18:13:50 [INFO] 模拟执行: query_production_queue
+18:13:50 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:50 [INFO] 请求ID: query_production_queue_1756462430264
+18:13:50 [INFO] 模拟响应: 成功
+18:13:50 [INFO] 模拟执行: query_production_queue
+18:13:50 [INFO] 参数: {"queueType": "Defense"}
+18:13:50 [INFO] 请求ID: query_production_queue_1756462430264
+18:13:50 [INFO] 模拟响应: 成功
+18:13:50 [INFO] 模拟执行: query_production_queue
+18:13:50 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:50 [INFO] 请求ID: query_production_queue_1756462430264
+18:13:50 [INFO] 模拟响应: 成功
+18:13:51 [INFO] 模拟执行: query_actor
+18:13:51 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:51 [INFO] 请求ID: query_actor_1756462430387
+18:13:51 [INFO] 模拟响应: 成功
+18:13:51 [INFO] 模拟执行: query_actor
+18:13:51 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:51 [INFO] 请求ID: query_actor_1756462430387
+18:13:51 [INFO] 模拟响应: 成功
+18:13:52 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:52 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:52 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:52 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:52 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:52 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:52 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:52 [INFO] 模拟执行: player_baseinfo_query
+18:13:52 [INFO] 参数: {}
+18:13:52 [INFO] 请求ID: player_baseinfo_query_1756462432284
+18:13:52 [INFO] 模拟响应: 成功
+18:13:52 [INFO] 模拟执行: screen_info_query
+18:13:52 [INFO] 参数: {}
+18:13:52 [INFO] 请求ID: screen_info_query_1756462432284
+18:13:52 [INFO] 模拟响应: 成功
+18:13:52 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:52 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:52 [INFO] 模拟执行: query_production_queue
+18:13:52 [INFO] 参数: {"queueType": "Building"}
+18:13:52 [INFO] 请求ID: query_production_queue_1756462432284
+18:13:52 [INFO] 模拟响应: 成功
+18:13:52 [INFO] 模拟执行: query_production_queue
+18:13:52 [INFO] 参数: {"queueType": "Infantry"}
+18:13:52 [INFO] 请求ID: query_production_queue_1756462432284
+18:13:52 [INFO] 模拟响应: 成功
+18:13:52 [INFO] 模拟执行: query_production_queue
+18:13:52 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:52 [INFO] 请求ID: query_production_queue_1756462432284
+18:13:52 [INFO] 模拟响应: 成功
+18:13:52 [INFO] 模拟执行: query_production_queue
+18:13:52 [INFO] 参数: {"queueType": "Defense"}
+18:13:52 [INFO] 请求ID: query_production_queue_1756462432284
+18:13:52 [INFO] 模拟响应: 成功
+18:13:52 [INFO] 模拟执行: query_production_queue
+18:13:52 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:52 [INFO] 请求ID: query_production_queue_1756462432284
+18:13:52 [INFO] 模拟响应: 成功
+18:13:53 [INFO] 模拟执行: query_actor
+18:13:53 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:53 [INFO] 请求ID: query_actor_1756462432470
+18:13:53 [INFO] 模拟响应: 成功
+18:13:53 [INFO] 模拟执行: query_actor
+18:13:53 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:53 [INFO] 请求ID: query_actor_1756462432470
+18:13:53 [INFO] 模拟响应: 成功
+18:13:54 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:54 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:54 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:54 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:54 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:54 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:54 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:54 [INFO] 模拟执行: player_baseinfo_query
+18:13:54 [INFO] 参数: {}
+18:13:54 [INFO] 请求ID: player_baseinfo_query_1756462434303
+18:13:54 [INFO] 模拟响应: 成功
+18:13:54 [INFO] 模拟执行: screen_info_query
+18:13:54 [INFO] 参数: {}
+18:13:54 [INFO] 请求ID: screen_info_query_1756462434303
+18:13:54 [INFO] 模拟响应: 成功
+18:13:54 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:54 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:54 [INFO] 模拟执行: query_production_queue
+18:13:54 [INFO] 参数: {"queueType": "Building"}
+18:13:54 [INFO] 请求ID: query_production_queue_1756462434303
+18:13:54 [INFO] 模拟响应: 成功
+18:13:54 [INFO] 模拟执行: query_production_queue
+18:13:54 [INFO] 参数: {"queueType": "Infantry"}
+18:13:54 [INFO] 请求ID: query_production_queue_1756462434303
+18:13:54 [INFO] 模拟响应: 成功
+18:13:54 [INFO] 模拟执行: query_production_queue
+18:13:54 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:54 [INFO] 请求ID: query_production_queue_1756462434303
+18:13:54 [INFO] 模拟响应: 成功
+18:13:54 [INFO] 模拟执行: query_production_queue
+18:13:54 [INFO] 参数: {"queueType": "Defense"}
+18:13:54 [INFO] 请求ID: query_production_queue_1756462434303
+18:13:54 [INFO] 模拟响应: 成功
+18:13:54 [INFO] 模拟执行: query_production_queue
+18:13:54 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:54 [INFO] 请求ID: query_production_queue_1756462434303
+18:13:54 [INFO] 模拟响应: 成功
+18:13:55 [INFO] 模拟执行: query_actor
+18:13:55 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:55 [INFO] 请求ID: query_actor_1756462434455
+18:13:55 [INFO] 模拟响应: 成功
+18:13:55 [INFO] 模拟执行: query_actor
+18:13:55 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:55 [INFO] 请求ID: query_actor_1756462434455
+18:13:55 [INFO] 模拟响应: 成功
+18:13:56 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:56 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:56 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:56 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:56 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:56 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:56 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:56 [INFO] 模拟执行: player_baseinfo_query
+18:13:56 [INFO] 参数: {}
+18:13:56 [INFO] 请求ID: player_baseinfo_query_1756462436321
+18:13:56 [INFO] 模拟响应: 成功
+18:13:56 [INFO] 模拟执行: screen_info_query
+18:13:56 [INFO] 参数: {}
+18:13:56 [INFO] 请求ID: screen_info_query_1756462436321
+18:13:56 [INFO] 模拟响应: 成功
+18:13:56 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:56 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:56 [INFO] 模拟执行: query_production_queue
+18:13:56 [INFO] 参数: {"queueType": "Building"}
+18:13:56 [INFO] 请求ID: query_production_queue_1756462436321
+18:13:56 [INFO] 模拟响应: 成功
+18:13:56 [INFO] 模拟执行: query_production_queue
+18:13:56 [INFO] 参数: {"queueType": "Infantry"}
+18:13:56 [INFO] 请求ID: query_production_queue_1756462436321
+18:13:56 [INFO] 模拟响应: 成功
+18:13:56 [INFO] 模拟执行: query_production_queue
+18:13:56 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:56 [INFO] 请求ID: query_production_queue_1756462436321
+18:13:56 [INFO] 模拟响应: 成功
+18:13:56 [INFO] 模拟执行: query_production_queue
+18:13:56 [INFO] 参数: {"queueType": "Defense"}
+18:13:56 [INFO] 请求ID: query_production_queue_1756462436321
+18:13:56 [INFO] 模拟响应: 成功
+18:13:56 [INFO] 模拟执行: query_production_queue
+18:13:56 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:56 [INFO] 请求ID: query_production_queue_1756462436321
+18:13:56 [INFO] 模拟响应: 成功
+18:13:57 [INFO] 模拟执行: query_actor
+18:13:57 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:57 [INFO] 请求ID: query_actor_1756462436440
+18:13:57 [INFO] 模拟响应: 成功
+18:13:57 [INFO] 模拟执行: query_actor
+18:13:57 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:57 [INFO] 请求ID: query_actor_1756462436440
+18:13:57 [INFO] 模拟响应: 成功
+18:13:58 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:13:58 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:13:58 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:58 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:58 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:58 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:58 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:13:58 [INFO] 模拟执行: player_baseinfo_query
+18:13:58 [INFO] 参数: {}
+18:13:58 [INFO] 请求ID: player_baseinfo_query_1756462438326
+18:13:58 [INFO] 模拟响应: 成功
+18:13:58 [INFO] 模拟执行: screen_info_query
+18:13:58 [INFO] 参数: {}
+18:13:58 [INFO] 请求ID: screen_info_query_1756462438326
+18:13:58 [INFO] 模拟响应: 成功
+18:13:58 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:58 [INFO] 命令已入队: query_actor (优先级: 3)
+18:13:58 [INFO] 模拟执行: query_production_queue
+18:13:58 [INFO] 参数: {"queueType": "Building"}
+18:13:58 [INFO] 请求ID: query_production_queue_1756462438326
+18:13:58 [INFO] 模拟响应: 成功
+18:13:58 [INFO] 模拟执行: query_production_queue
+18:13:58 [INFO] 参数: {"queueType": "Infantry"}
+18:13:58 [INFO] 请求ID: query_production_queue_1756462438326
+18:13:58 [INFO] 模拟响应: 成功
+18:13:58 [INFO] 模拟执行: query_production_queue
+18:13:58 [INFO] 参数: {"queueType": "Vehicle"}
+18:13:58 [INFO] 请求ID: query_production_queue_1756462438326
+18:13:58 [INFO] 模拟响应: 成功
+18:13:58 [INFO] 模拟执行: query_production_queue
+18:13:58 [INFO] 参数: {"queueType": "Defense"}
+18:13:58 [INFO] 请求ID: query_production_queue_1756462438326
+18:13:58 [INFO] 模拟响应: 成功
+18:13:59 [INFO] 模拟执行: query_production_queue
+18:13:59 [INFO] 参数: {"queueType": "Aircraft"}
+18:13:59 [INFO] 请求ID: query_production_queue_1756462438326
+18:13:59 [INFO] 模拟响应: 成功
+18:13:59 [INFO] 模拟执行: query_actor
+18:13:59 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:13:59 [INFO] 请求ID: query_actor_1756462438526
+18:13:59 [INFO] 模拟响应: 成功
+18:13:59 [INFO] 模拟执行: query_actor
+18:13:59 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:13:59 [INFO] 请求ID: query_actor_1756462438526
+18:13:59 [INFO] 模拟响应: 成功
+18:14:00 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:00 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:00 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:00 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:00 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:00 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:00 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:00 [INFO] 模拟执行: player_baseinfo_query
+18:14:00 [INFO] 参数: {}
+18:14:00 [INFO] 请求ID: player_baseinfo_query_1756462440345
+18:14:00 [INFO] 模拟响应: 成功
+18:14:00 [INFO] 模拟执行: screen_info_query
+18:14:00 [INFO] 参数: {}
+18:14:00 [INFO] 请求ID: screen_info_query_1756462440346
+18:14:00 [INFO] 模拟响应: 成功
+18:14:00 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:00 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:00 [INFO] 模拟执行: query_production_queue
+18:14:00 [INFO] 参数: {"queueType": "Building"}
+18:14:00 [INFO] 请求ID: query_production_queue_1756462440346
+18:14:00 [INFO] 模拟响应: 成功
+18:14:00 [INFO] 模拟执行: query_production_queue
+18:14:00 [INFO] 参数: {"queueType": "Infantry"}
+18:14:00 [INFO] 请求ID: query_production_queue_1756462440346
+18:14:00 [INFO] 模拟响应: 成功
+18:14:00 [INFO] 模拟执行: query_production_queue
+18:14:00 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:00 [INFO] 请求ID: query_production_queue_1756462440346
+18:14:00 [INFO] 模拟响应: 成功
+18:14:00 [INFO] 模拟执行: query_production_queue
+18:14:00 [INFO] 参数: {"queueType": "Defense"}
+18:14:00 [INFO] 请求ID: query_production_queue_1756462440346
+18:14:00 [INFO] 模拟响应: 成功
+18:14:01 [INFO] 模拟执行: query_production_queue
+18:14:01 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:01 [INFO] 请求ID: query_production_queue_1756462440346
+18:14:01 [INFO] 模拟响应: 成功
+18:14:01 [INFO] 模拟执行: query_actor
+18:14:01 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:01 [INFO] 请求ID: query_actor_1756462440488
+18:14:01 [INFO] 模拟响应: 成功
+18:14:01 [INFO] 模拟执行: query_actor
+18:14:01 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:01 [INFO] 请求ID: query_actor_1756462440488
+18:14:01 [INFO] 模拟响应: 成功
+18:14:02 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:02 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:02 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:02 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:02 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:02 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:02 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:02 [INFO] 模拟执行: player_baseinfo_query
+18:14:02 [INFO] 参数: {}
+18:14:02 [INFO] 请求ID: player_baseinfo_query_1756462442364
+18:14:02 [INFO] 模拟响应: 成功
+18:14:02 [INFO] 模拟执行: screen_info_query
+18:14:02 [INFO] 参数: {}
+18:14:02 [INFO] 请求ID: screen_info_query_1756462442365
+18:14:02 [INFO] 模拟响应: 成功
+18:14:02 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:02 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:02 [INFO] 模拟执行: query_production_queue
+18:14:02 [INFO] 参数: {"queueType": "Building"}
+18:14:02 [INFO] 请求ID: query_production_queue_1756462442365
+18:14:02 [INFO] 模拟响应: 成功
+18:14:02 [INFO] 模拟执行: query_production_queue
+18:14:02 [INFO] 参数: {"queueType": "Infantry"}
+18:14:02 [INFO] 请求ID: query_production_queue_1756462442365
+18:14:02 [INFO] 模拟响应: 成功
+18:14:02 [INFO] 模拟执行: query_production_queue
+18:14:02 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:02 [INFO] 请求ID: query_production_queue_1756462442365
+18:14:02 [INFO] 模拟响应: 成功
+18:14:02 [INFO] 模拟执行: query_production_queue
+18:14:02 [INFO] 参数: {"queueType": "Defense"}
+18:14:02 [INFO] 请求ID: query_production_queue_1756462442365
+18:14:02 [INFO] 模拟响应: 成功
+18:14:03 [INFO] 模拟执行: query_production_queue
+18:14:03 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:03 [INFO] 请求ID: query_production_queue_1756462442365
+18:14:03 [INFO] 模拟响应: 成功
+18:14:03 [INFO] 模拟执行: query_actor
+18:14:03 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:03 [INFO] 请求ID: query_actor_1756462442565
+18:14:03 [INFO] 模拟响应: 成功
+18:14:03 [INFO] 模拟执行: query_actor
+18:14:03 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:03 [INFO] 请求ID: query_actor_1756462442565
+18:14:03 [INFO] 模拟响应: 成功
+18:14:04 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:04 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:04 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:04 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:04 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:04 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:04 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:04 [INFO] 模拟执行: player_baseinfo_query
+18:14:04 [INFO] 参数: {}
+18:14:04 [INFO] 请求ID: player_baseinfo_query_1756462444386
+18:14:04 [INFO] 模拟响应: 成功
+18:14:04 [INFO] 模拟执行: screen_info_query
+18:14:04 [INFO] 参数: {}
+18:14:04 [INFO] 请求ID: screen_info_query_1756462444386
+18:14:04 [INFO] 模拟响应: 成功
+18:14:04 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:04 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:04 [INFO] 模拟执行: query_production_queue
+18:14:04 [INFO] 参数: {"queueType": "Building"}
+18:14:04 [INFO] 请求ID: query_production_queue_1756462444386
+18:14:04 [INFO] 模拟响应: 成功
+18:14:04 [INFO] 模拟执行: query_production_queue
+18:14:04 [INFO] 参数: {"queueType": "Infantry"}
+18:14:04 [INFO] 请求ID: query_production_queue_1756462444386
+18:14:04 [INFO] 模拟响应: 成功
+18:14:04 [INFO] 模拟执行: query_production_queue
+18:14:04 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:04 [INFO] 请求ID: query_production_queue_1756462444386
+18:14:04 [INFO] 模拟响应: 成功
+18:14:04 [INFO] 模拟执行: query_production_queue
+18:14:04 [INFO] 参数: {"queueType": "Defense"}
+18:14:04 [INFO] 请求ID: query_production_queue_1756462444386
+18:14:04 [INFO] 模拟响应: 成功
+18:14:05 [INFO] 模拟执行: query_production_queue
+18:14:05 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:05 [INFO] 请求ID: query_production_queue_1756462444386
+18:14:05 [INFO] 模拟响应: 成功
+18:14:05 [INFO] 模拟执行: query_actor
+18:14:05 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:05 [INFO] 请求ID: query_actor_1756462444535
+18:14:05 [INFO] 模拟响应: 成功
+18:14:05 [INFO] 模拟执行: query_actor
+18:14:05 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:05 [INFO] 请求ID: query_actor_1756462444535
+18:14:05 [INFO] 模拟响应: 成功
+18:14:06 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:06 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:06 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:06 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:06 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:06 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:06 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:06 [INFO] 模拟执行: player_baseinfo_query
+18:14:06 [INFO] 参数: {}
+18:14:06 [INFO] 请求ID: player_baseinfo_query_1756462446405
+18:14:06 [INFO] 模拟响应: 成功
+18:14:06 [INFO] 模拟执行: screen_info_query
+18:14:06 [INFO] 参数: {}
+18:14:06 [INFO] 请求ID: screen_info_query_1756462446405
+18:14:06 [INFO] 模拟响应: 成功
+18:14:06 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:06 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:06 [INFO] 模拟执行: query_production_queue
+18:14:06 [INFO] 参数: {"queueType": "Building"}
+18:14:06 [INFO] 请求ID: query_production_queue_1756462446405
+18:14:06 [INFO] 模拟响应: 成功
+18:14:06 [INFO] 模拟执行: query_production_queue
+18:14:06 [INFO] 参数: {"queueType": "Infantry"}
+18:14:06 [INFO] 请求ID: query_production_queue_1756462446405
+18:14:06 [INFO] 模拟响应: 成功
+18:14:06 [INFO] 模拟执行: query_production_queue
+18:14:06 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:06 [INFO] 请求ID: query_production_queue_1756462446405
+18:14:06 [INFO] 模拟响应: 成功
+18:14:06 [INFO] 模拟执行: query_production_queue
+18:14:06 [INFO] 参数: {"queueType": "Defense"}
+18:14:06 [INFO] 请求ID: query_production_queue_1756462446405
+18:14:06 [INFO] 模拟响应: 成功
+18:14:07 [INFO] 模拟执行: query_production_queue
+18:14:07 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:07 [INFO] 请求ID: query_production_queue_1756462446405
+18:14:07 [INFO] 模拟响应: 成功
+18:14:07 [INFO] 模拟执行: query_actor
+18:14:07 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:07 [INFO] 请求ID: query_actor_1756462446515
+18:14:07 [INFO] 模拟响应: 成功
+18:14:07 [INFO] 模拟执行: query_actor
+18:14:07 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:07 [INFO] 请求ID: query_actor_1756462446515
+18:14:07 [INFO] 模拟响应: 成功
+18:14:08 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:08 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:08 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:08 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:08 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:08 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:08 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:08 [INFO] 模拟执行: player_baseinfo_query
+18:14:08 [INFO] 参数: {}
+18:14:08 [INFO] 请求ID: player_baseinfo_query_1756462448417
+18:14:08 [INFO] 模拟响应: 成功
+18:14:08 [INFO] 模拟执行: screen_info_query
+18:14:08 [INFO] 参数: {}
+18:14:08 [INFO] 请求ID: screen_info_query_1756462448417
+18:14:08 [INFO] 模拟响应: 成功
+18:14:08 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:08 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:08 [INFO] 模拟执行: query_production_queue
+18:14:08 [INFO] 参数: {"queueType": "Building"}
+18:14:08 [INFO] 请求ID: query_production_queue_1756462448417
+18:14:08 [INFO] 模拟响应: 成功
+18:14:08 [INFO] 模拟执行: query_production_queue
+18:14:08 [INFO] 参数: {"queueType": "Infantry"}
+18:14:08 [INFO] 请求ID: query_production_queue_1756462448417
+18:14:08 [INFO] 模拟响应: 成功
+18:14:08 [INFO] 模拟执行: query_production_queue
+18:14:08 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:08 [INFO] 请求ID: query_production_queue_1756462448417
+18:14:08 [INFO] 模拟响应: 成功
+18:14:09 [INFO] 模拟执行: query_production_queue
+18:14:09 [INFO] 参数: {"queueType": "Defense"}
+18:14:09 [INFO] 请求ID: query_production_queue_1756462448417
+18:14:09 [INFO] 模拟响应: 成功
+18:14:09 [INFO] 模拟执行: query_production_queue
+18:14:09 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:09 [INFO] 请求ID: query_production_queue_1756462448417
+18:14:09 [INFO] 模拟响应: 成功
+18:14:09 [INFO] 模拟执行: query_actor
+18:14:09 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:09 [INFO] 请求ID: query_actor_1756462448598
+18:14:09 [INFO] 模拟响应: 成功
+18:14:09 [INFO] 模拟执行: query_actor
+18:14:09 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:09 [INFO] 请求ID: query_actor_1756462448598
+18:14:09 [INFO] 模拟响应: 成功
+18:14:10 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:10 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:10 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:10 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:10 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:10 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:10 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:10 [INFO] 模拟执行: player_baseinfo_query
+18:14:10 [INFO] 参数: {}
+18:14:10 [INFO] 请求ID: player_baseinfo_query_1756462450433
+18:14:10 [INFO] 模拟响应: 成功
+18:14:10 [INFO] 模拟执行: screen_info_query
+18:14:10 [INFO] 参数: {}
+18:14:10 [INFO] 请求ID: screen_info_query_1756462450433
+18:14:10 [INFO] 模拟响应: 成功
+18:14:10 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:10 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:10 [INFO] 模拟执行: query_production_queue
+18:14:10 [INFO] 参数: {"queueType": "Building"}
+18:14:10 [INFO] 请求ID: query_production_queue_1756462450433
+18:14:10 [INFO] 模拟响应: 成功
+18:14:10 [INFO] 模拟执行: query_production_queue
+18:14:10 [INFO] 参数: {"queueType": "Infantry"}
+18:14:10 [INFO] 请求ID: query_production_queue_1756462450433
+18:14:10 [INFO] 模拟响应: 成功
+18:14:10 [INFO] 模拟执行: query_production_queue
+18:14:10 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:10 [INFO] 请求ID: query_production_queue_1756462450433
+18:14:10 [INFO] 模拟响应: 成功
+18:14:11 [INFO] 模拟执行: query_production_queue
+18:14:11 [INFO] 参数: {"queueType": "Defense"}
+18:14:11 [INFO] 请求ID: query_production_queue_1756462450433
+18:14:11 [INFO] 模拟响应: 成功
+18:14:11 [INFO] 模拟执行: query_production_queue
+18:14:11 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:11 [INFO] 请求ID: query_production_queue_1756462450433
+18:14:11 [INFO] 模拟响应: 成功
+18:14:11 [INFO] 模拟执行: query_actor
+18:14:11 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:11 [INFO] 请求ID: query_actor_1756462450590
+18:14:11 [INFO] 模拟响应: 成功
+18:14:11 [INFO] 模拟执行: query_actor
+18:14:11 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:11 [INFO] 请求ID: query_actor_1756462450590
+18:14:11 [INFO] 模拟响应: 成功
+18:14:12 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:12 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:12 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:12 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:12 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:12 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:12 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:12 [INFO] 模拟执行: player_baseinfo_query
+18:14:12 [INFO] 参数: {}
+18:14:12 [INFO] 请求ID: player_baseinfo_query_1756462452451
+18:14:12 [INFO] 模拟响应: 成功
+18:14:12 [INFO] 模拟执行: screen_info_query
+18:14:12 [INFO] 参数: {}
+18:14:12 [INFO] 请求ID: screen_info_query_1756462452451
+18:14:12 [INFO] 模拟响应: 成功
+18:14:12 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:12 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:12 [INFO] 模拟执行: query_production_queue
+18:14:12 [INFO] 参数: {"queueType": "Building"}
+18:14:12 [INFO] 请求ID: query_production_queue_1756462452451
+18:14:12 [INFO] 模拟响应: 成功
+18:14:12 [INFO] 模拟执行: query_production_queue
+18:14:12 [INFO] 参数: {"queueType": "Infantry"}
+18:14:12 [INFO] 请求ID: query_production_queue_1756462452451
+18:14:12 [INFO] 模拟响应: 成功
+18:14:12 [INFO] 模拟执行: query_production_queue
+18:14:12 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:12 [INFO] 请求ID: query_production_queue_1756462452451
+18:14:12 [INFO] 模拟响应: 成功
+18:14:12 [INFO] 模拟执行: query_production_queue
+18:14:12 [INFO] 参数: {"queueType": "Defense"}
+18:14:12 [INFO] 请求ID: query_production_queue_1756462452451
+18:14:12 [INFO] 模拟响应: 成功
+18:14:13 [INFO] 模拟执行: query_production_queue
+18:14:13 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:13 [INFO] 请求ID: query_production_queue_1756462452451
+18:14:13 [INFO] 模拟响应: 成功
+18:14:13 [INFO] 模拟执行: query_actor
+18:14:13 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:13 [INFO] 请求ID: query_actor_1756462452571
+18:14:13 [INFO] 模拟响应: 成功
+18:14:13 [INFO] 模拟执行: query_actor
+18:14:13 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:13 [INFO] 请求ID: query_actor_1756462452571
+18:14:13 [INFO] 模拟响应: 成功
+18:14:14 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:14 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:14 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:14 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:14 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:14 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:14 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:14 [INFO] 模拟执行: player_baseinfo_query
+18:14:14 [INFO] 参数: {}
+18:14:14 [INFO] 请求ID: player_baseinfo_query_1756462454461
+18:14:14 [INFO] 模拟响应: 成功
+18:14:14 [INFO] 模拟执行: screen_info_query
+18:14:14 [INFO] 参数: {}
+18:14:14 [INFO] 请求ID: screen_info_query_1756462454461
+18:14:14 [INFO] 模拟响应: 成功
+18:14:14 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:14 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:14 [INFO] 模拟执行: query_production_queue
+18:14:14 [INFO] 参数: {"queueType": "Building"}
+18:14:14 [INFO] 请求ID: query_production_queue_1756462454461
+18:14:14 [INFO] 模拟响应: 成功
+18:14:14 [INFO] 模拟执行: query_production_queue
+18:14:14 [INFO] 参数: {"queueType": "Infantry"}
+18:14:14 [INFO] 请求ID: query_production_queue_1756462454461
+18:14:14 [INFO] 模拟响应: 成功
+18:14:14 [INFO] 模拟执行: query_production_queue
+18:14:14 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:14 [INFO] 请求ID: query_production_queue_1756462454461
+18:14:14 [INFO] 模拟响应: 成功
+18:14:15 [INFO] 模拟执行: query_production_queue
+18:14:15 [INFO] 参数: {"queueType": "Defense"}
+18:14:15 [INFO] 请求ID: query_production_queue_1756462454461
+18:14:15 [INFO] 模拟响应: 成功
+18:14:15 [INFO] 模拟执行: query_production_queue
+18:14:15 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:15 [INFO] 请求ID: query_production_queue_1756462454461
+18:14:15 [INFO] 模拟响应: 成功
+18:14:15 [INFO] 模拟执行: query_actor
+18:14:15 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:15 [INFO] 请求ID: query_actor_1756462454657
+18:14:15 [INFO] 模拟响应: 成功
+18:14:15 [INFO] 模拟执行: query_actor
+18:14:15 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:15 [INFO] 请求ID: query_actor_1756462454657
+18:14:15 [INFO] 模拟响应: 成功
+18:14:16 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:16 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:16 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:16 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:16 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:16 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:16 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:16 [INFO] 模拟执行: player_baseinfo_query
+18:14:16 [INFO] 参数: {}
+18:14:16 [INFO] 请求ID: player_baseinfo_query_1756462456477
+18:14:16 [INFO] 模拟响应: 成功
+18:14:16 [INFO] 模拟执行: screen_info_query
+18:14:16 [INFO] 参数: {}
+18:14:16 [INFO] 请求ID: screen_info_query_1756462456478
+18:14:16 [INFO] 模拟响应: 成功
+18:14:16 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:16 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:16 [INFO] 模拟执行: query_production_queue
+18:14:16 [INFO] 参数: {"queueType": "Building"}
+18:14:16 [INFO] 请求ID: query_production_queue_1756462456478
+18:14:16 [INFO] 模拟响应: 成功
+18:14:16 [INFO] 模拟执行: query_production_queue
+18:14:16 [INFO] 参数: {"queueType": "Infantry"}
+18:14:16 [INFO] 请求ID: query_production_queue_1756462456478
+18:14:16 [INFO] 模拟响应: 成功
+18:14:16 [INFO] 模拟执行: query_production_queue
+18:14:16 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:16 [INFO] 请求ID: query_production_queue_1756462456478
+18:14:16 [INFO] 模拟响应: 成功
+18:14:17 [INFO] 模拟执行: query_production_queue
+18:14:17 [INFO] 参数: {"queueType": "Defense"}
+18:14:17 [INFO] 请求ID: query_production_queue_1756462456478
+18:14:17 [INFO] 模拟响应: 成功
+18:14:17 [INFO] 模拟执行: query_production_queue
+18:14:17 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:17 [INFO] 请求ID: query_production_queue_1756462456478
+18:14:17 [INFO] 模拟响应: 成功
+18:14:17 [INFO] 模拟执行: query_actor
+18:14:17 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:17 [INFO] 请求ID: query_actor_1756462456636
+18:14:17 [INFO] 模拟响应: 成功
+18:14:17 [INFO] 模拟执行: query_actor
+18:14:17 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:17 [INFO] 请求ID: query_actor_1756462456636
+18:14:17 [INFO] 模拟响应: 成功
+18:14:18 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:18 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:18 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:18 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:18 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:18 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:18 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:18 [INFO] 模拟执行: player_baseinfo_query
+18:14:18 [INFO] 参数: {}
+18:14:18 [INFO] 请求ID: player_baseinfo_query_1756462458489
+18:14:18 [INFO] 模拟响应: 成功
+18:14:18 [INFO] 模拟执行: screen_info_query
+18:14:18 [INFO] 参数: {}
+18:14:18 [INFO] 请求ID: screen_info_query_1756462458490
+18:14:18 [INFO] 模拟响应: 成功
+18:14:18 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:18 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:18 [INFO] 模拟执行: query_production_queue
+18:14:18 [INFO] 参数: {"queueType": "Building"}
+18:14:18 [INFO] 请求ID: query_production_queue_1756462458490
+18:14:18 [INFO] 模拟响应: 成功
+18:14:18 [INFO] 模拟执行: query_production_queue
+18:14:18 [INFO] 参数: {"queueType": "Infantry"}
+18:14:18 [INFO] 请求ID: query_production_queue_1756462458490
+18:14:18 [INFO] 模拟响应: 成功
+18:14:18 [INFO] 模拟执行: query_production_queue
+18:14:18 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:18 [INFO] 请求ID: query_production_queue_1756462458490
+18:14:18 [INFO] 模拟响应: 成功
+18:14:19 [INFO] 模拟执行: query_production_queue
+18:14:19 [INFO] 参数: {"queueType": "Defense"}
+18:14:19 [INFO] 请求ID: query_production_queue_1756462458490
+18:14:19 [INFO] 模拟响应: 成功
+18:14:19 [INFO] 模拟执行: query_production_queue
+18:14:19 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:19 [INFO] 请求ID: query_production_queue_1756462458490
+18:14:19 [INFO] 模拟响应: 成功
+18:14:19 [INFO] 模拟执行: query_actor
+18:14:19 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:19 [INFO] 请求ID: query_actor_1756462458610
+18:14:19 [INFO] 模拟响应: 成功
+18:14:19 [INFO] 模拟执行: query_actor
+18:14:19 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:19 [INFO] 请求ID: query_actor_1756462458610
+18:14:19 [INFO] 模拟响应: 成功
+18:14:20 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:20 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:20 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:20 [INFO] 模拟执行: player_baseinfo_query
+18:14:20 [INFO] 参数: {}
+18:14:20 [INFO] 请求ID: player_baseinfo_query_1756462460506
+18:14:20 [INFO] 模拟响应: 成功
+18:14:20 [INFO] 模拟执行: screen_info_query
+18:14:20 [INFO] 参数: {}
+18:14:20 [INFO] 请求ID: screen_info_query_1756462460506
+18:14:20 [INFO] 模拟响应: 成功
+18:14:20 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:20 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:20 [INFO] 模拟执行: query_production_queue
+18:14:20 [INFO] 参数: {"queueType": "Building"}
+18:14:20 [INFO] 请求ID: query_production_queue_1756462460506
+18:14:20 [INFO] 模拟响应: 成功
+18:14:20 [INFO] 模拟执行: query_production_queue
+18:14:20 [INFO] 参数: {"queueType": "Infantry"}
+18:14:20 [INFO] 请求ID: query_production_queue_1756462460506
+18:14:20 [INFO] 模拟响应: 成功
+18:14:20 [INFO] 模拟执行: query_production_queue
+18:14:20 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:20 [INFO] 请求ID: query_production_queue_1756462460506
+18:14:20 [INFO] 模拟响应: 成功
+18:14:21 [INFO] 模拟执行: query_production_queue
+18:14:21 [INFO] 参数: {"queueType": "Defense"}
+18:14:21 [INFO] 请求ID: query_production_queue_1756462460506
+18:14:21 [INFO] 模拟响应: 成功
+18:14:21 [INFO] 模拟执行: query_production_queue
+18:14:21 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:21 [INFO] 请求ID: query_production_queue_1756462460506
+18:14:21 [INFO] 模拟响应: 成功
+18:14:21 [INFO] 模拟执行: query_actor
+18:14:21 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:21 [INFO] 请求ID: query_actor_1756462460680
+18:14:21 [INFO] 模拟响应: 成功
+18:14:21 [INFO] 模拟执行: query_actor
+18:14:21 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:21 [INFO] 请求ID: query_actor_1756462460680
+18:14:21 [INFO] 模拟响应: 成功
+18:14:22 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:22 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:22 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:22 [INFO] 模拟执行: player_baseinfo_query
+18:14:22 [INFO] 参数: {}
+18:14:22 [INFO] 请求ID: player_baseinfo_query_1756462462524
+18:14:22 [INFO] 模拟响应: 成功
+18:14:22 [INFO] 模拟执行: screen_info_query
+18:14:22 [INFO] 参数: {}
+18:14:22 [INFO] 请求ID: screen_info_query_1756462462524
+18:14:22 [INFO] 模拟响应: 成功
+18:14:22 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:22 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:22 [INFO] 模拟执行: query_production_queue
+18:14:22 [INFO] 参数: {"queueType": "Building"}
+18:14:22 [INFO] 请求ID: query_production_queue_1756462462524
+18:14:22 [INFO] 模拟响应: 成功
+18:14:22 [INFO] 模拟执行: query_production_queue
+18:14:22 [INFO] 参数: {"queueType": "Infantry"}
+18:14:22 [INFO] 请求ID: query_production_queue_1756462462524
+18:14:22 [INFO] 模拟响应: 成功
+18:14:22 [INFO] 模拟执行: query_production_queue
+18:14:22 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:22 [INFO] 请求ID: query_production_queue_1756462462524
+18:14:22 [INFO] 模拟响应: 成功
+18:14:23 [INFO] 模拟执行: query_production_queue
+18:14:23 [INFO] 参数: {"queueType": "Defense"}
+18:14:23 [INFO] 请求ID: query_production_queue_1756462462524
+18:14:23 [INFO] 模拟响应: 成功
+18:14:23 [INFO] 模拟执行: query_production_queue
+18:14:23 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:23 [INFO] 请求ID: query_production_queue_1756462462524
+18:14:23 [INFO] 模拟响应: 成功
+18:14:23 [INFO] 模拟执行: query_actor
+18:14:23 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:23 [INFO] 请求ID: query_actor_1756462462654
+18:14:23 [INFO] 模拟响应: 成功
+18:14:23 [INFO] 模拟执行: query_actor
+18:14:23 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:23 [INFO] 请求ID: query_actor_1756462462654
+18:14:23 [INFO] 模拟响应: 成功
+18:14:24 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:24 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:24 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:24 [INFO] 模拟执行: player_baseinfo_query
+18:14:24 [INFO] 参数: {}
+18:14:24 [INFO] 请求ID: player_baseinfo_query_1756462464538
+18:14:24 [INFO] 模拟响应: 成功
+18:14:24 [INFO] 模拟执行: screen_info_query
+18:14:24 [INFO] 参数: {}
+18:14:24 [INFO] 请求ID: screen_info_query_1756462464539
+18:14:24 [INFO] 模拟响应: 成功
+18:14:24 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:24 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:24 [INFO] 模拟执行: query_production_queue
+18:14:24 [INFO] 参数: {"queueType": "Building"}
+18:14:24 [INFO] 请求ID: query_production_queue_1756462464539
+18:14:24 [INFO] 模拟响应: 成功
+18:14:24 [INFO] 模拟执行: query_production_queue
+18:14:24 [INFO] 参数: {"queueType": "Infantry"}
+18:14:24 [INFO] 请求ID: query_production_queue_1756462464539
+18:14:24 [INFO] 模拟响应: 成功
+18:14:25 [INFO] 模拟执行: query_production_queue
+18:14:25 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:25 [INFO] 请求ID: query_production_queue_1756462464539
+18:14:25 [INFO] 模拟响应: 成功
+18:14:25 [INFO] 模拟执行: query_production_queue
+18:14:25 [INFO] 参数: {"queueType": "Defense"}
+18:14:25 [INFO] 请求ID: query_production_queue_1756462464539
+18:14:25 [INFO] 模拟响应: 成功
+18:14:25 [INFO] 模拟执行: query_production_queue
+18:14:25 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:25 [INFO] 请求ID: query_production_queue_1756462464539
+18:14:25 [INFO] 模拟响应: 成功
+18:14:25 [INFO] 模拟执行: query_actor
+18:14:25 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:25 [INFO] 请求ID: query_actor_1756462464742
+18:14:25 [INFO] 模拟响应: 成功
+18:14:25 [INFO] 模拟执行: query_actor
+18:14:25 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:25 [INFO] 请求ID: query_actor_1756462464742
+18:14:25 [INFO] 模拟响应: 成功
+18:14:26 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:26 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:26 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:26 [INFO] 模拟执行: player_baseinfo_query
+18:14:26 [INFO] 参数: {}
+18:14:26 [INFO] 请求ID: player_baseinfo_query_1756462466558
+18:14:26 [INFO] 模拟响应: 成功
+18:14:26 [INFO] 模拟执行: screen_info_query
+18:14:26 [INFO] 参数: {}
+18:14:26 [INFO] 请求ID: screen_info_query_1756462466558
+18:14:26 [INFO] 模拟响应: 成功
+18:14:26 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:26 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:26 [INFO] 模拟执行: query_production_queue
+18:14:26 [INFO] 参数: {"queueType": "Building"}
+18:14:26 [INFO] 请求ID: query_production_queue_1756462466558
+18:14:26 [INFO] 模拟响应: 成功
+18:14:26 [INFO] 模拟执行: query_production_queue
+18:14:26 [INFO] 参数: {"queueType": "Infantry"}
+18:14:26 [INFO] 请求ID: query_production_queue_1756462466558
+18:14:26 [INFO] 模拟响应: 成功
+18:14:27 [INFO] 模拟执行: query_production_queue
+18:14:27 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:27 [INFO] 请求ID: query_production_queue_1756462466558
+18:14:27 [INFO] 模拟响应: 成功
+18:14:27 [INFO] 模拟执行: query_production_queue
+18:14:27 [INFO] 参数: {"queueType": "Defense"}
+18:14:27 [INFO] 请求ID: query_production_queue_1756462466558
+18:14:27 [INFO] 模拟响应: 成功
+18:14:27 [INFO] 模拟执行: query_production_queue
+18:14:27 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:27 [INFO] 请求ID: query_production_queue_1756462466558
+18:14:27 [INFO] 模拟响应: 成功
+18:14:27 [INFO] 模拟执行: query_actor
+18:14:27 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:27 [INFO] 请求ID: query_actor_1756462466742
+18:14:27 [INFO] 模拟响应: 成功
+18:14:27 [INFO] 模拟执行: query_actor
+18:14:27 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:27 [INFO] 请求ID: query_actor_1756462466742
+18:14:27 [INFO] 模拟响应: 成功
+18:14:28 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:28 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:28 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:28 [INFO] 模拟执行: player_baseinfo_query
+18:14:28 [INFO] 参数: {}
+18:14:28 [INFO] 请求ID: player_baseinfo_query_1756462468577
+18:14:28 [INFO] 模拟响应: 成功
+18:14:28 [INFO] 模拟执行: screen_info_query
+18:14:28 [INFO] 参数: {}
+18:14:28 [INFO] 请求ID: screen_info_query_1756462468578
+18:14:28 [INFO] 模拟响应: 成功
+18:14:28 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:28 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:28 [INFO] 模拟执行: query_production_queue
+18:14:28 [INFO] 参数: {"queueType": "Building"}
+18:14:28 [INFO] 请求ID: query_production_queue_1756462468578
+18:14:28 [INFO] 模拟响应: 成功
+18:14:28 [INFO] 模拟执行: query_production_queue
+18:14:28 [INFO] 参数: {"queueType": "Infantry"}
+18:14:28 [INFO] 请求ID: query_production_queue_1756462468578
+18:14:28 [INFO] 模拟响应: 成功
+18:14:29 [INFO] 模拟执行: query_production_queue
+18:14:29 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:29 [INFO] 请求ID: query_production_queue_1756462468578
+18:14:29 [INFO] 模拟响应: 成功
+18:14:29 [INFO] 模拟执行: query_production_queue
+18:14:29 [INFO] 参数: {"queueType": "Defense"}
+18:14:29 [INFO] 请求ID: query_production_queue_1756462468578
+18:14:29 [INFO] 模拟响应: 成功
+18:14:29 [INFO] 模拟执行: query_production_queue
+18:14:29 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:29 [INFO] 请求ID: query_production_queue_1756462468578
+18:14:29 [INFO] 模拟响应: 成功
+18:14:29 [INFO] 模拟执行: query_actor
+18:14:29 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:29 [INFO] 请求ID: query_actor_1756462468732
+18:14:29 [INFO] 模拟响应: 成功
+18:14:29 [INFO] 模拟执行: query_actor
+18:14:29 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:29 [INFO] 请求ID: query_actor_1756462468732
+18:14:29 [INFO] 模拟响应: 成功
+18:14:30 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:30 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:30 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:30 [INFO] 模拟执行: player_baseinfo_query
+18:14:30 [INFO] 参数: {}
+18:14:30 [INFO] 请求ID: player_baseinfo_query_1756462470597
+18:14:30 [INFO] 模拟响应: 成功
+18:14:30 [INFO] 模拟执行: screen_info_query
+18:14:30 [INFO] 参数: {}
+18:14:30 [INFO] 请求ID: screen_info_query_1756462470598
+18:14:30 [INFO] 模拟响应: 成功
+18:14:30 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:30 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:30 [INFO] 模拟执行: query_production_queue
+18:14:30 [INFO] 参数: {"queueType": "Building"}
+18:14:30 [INFO] 请求ID: query_production_queue_1756462470598
+18:14:30 [INFO] 模拟响应: 成功
+18:14:30 [INFO] 模拟执行: query_production_queue
+18:14:30 [INFO] 参数: {"queueType": "Infantry"}
+18:14:30 [INFO] 请求ID: query_production_queue_1756462470598
+18:14:30 [INFO] 模拟响应: 成功
+18:14:31 [INFO] 模拟执行: query_production_queue
+18:14:31 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:31 [INFO] 请求ID: query_production_queue_1756462470598
+18:14:31 [INFO] 模拟响应: 成功
+18:14:31 [INFO] 模拟执行: query_production_queue
+18:14:31 [INFO] 参数: {"queueType": "Defense"}
+18:14:31 [INFO] 请求ID: query_production_queue_1756462470598
+18:14:31 [INFO] 模拟响应: 成功
+18:14:31 [INFO] 模拟执行: query_production_queue
+18:14:31 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:31 [INFO] 请求ID: query_production_queue_1756462470598
+18:14:31 [INFO] 模拟响应: 成功
+18:14:31 [INFO] 模拟执行: query_actor
+18:14:31 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:31 [INFO] 请求ID: query_actor_1756462470723
+18:14:31 [INFO] 模拟响应: 成功
+18:14:31 [INFO] 模拟执行: query_actor
+18:14:31 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:31 [INFO] 请求ID: query_actor_1756462470723
+18:14:31 [INFO] 模拟响应: 成功
+18:14:32 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:32 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:32 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:32 [INFO] 模拟执行: player_baseinfo_query
+18:14:32 [INFO] 参数: {}
+18:14:32 [INFO] 请求ID: player_baseinfo_query_1756462472618
+18:14:32 [INFO] 模拟响应: 成功
+18:14:32 [INFO] 模拟执行: screen_info_query
+18:14:32 [INFO] 参数: {}
+18:14:32 [INFO] 请求ID: screen_info_query_1756462472619
+18:14:32 [INFO] 模拟响应: 成功
+18:14:32 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:32 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:32 [INFO] 模拟执行: query_production_queue
+18:14:32 [INFO] 参数: {"queueType": "Building"}
+18:14:32 [INFO] 请求ID: query_production_queue_1756462472619
+18:14:32 [INFO] 模拟响应: 成功
+18:14:33 [INFO] 模拟执行: query_production_queue
+18:14:33 [INFO] 参数: {"queueType": "Infantry"}
+18:14:33 [INFO] 请求ID: query_production_queue_1756462472619
+18:14:33 [INFO] 模拟响应: 成功
+18:14:33 [INFO] 模拟执行: query_production_queue
+18:14:33 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:33 [INFO] 请求ID: query_production_queue_1756462472619
+18:14:33 [INFO] 模拟响应: 成功
+18:14:33 [INFO] 模拟执行: query_production_queue
+18:14:33 [INFO] 参数: {"queueType": "Defense"}
+18:14:33 [INFO] 请求ID: query_production_queue_1756462472619
+18:14:33 [INFO] 模拟响应: 成功
+18:14:33 [INFO] 模拟执行: query_production_queue
+18:14:33 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:33 [INFO] 请求ID: query_production_queue_1756462472619
+18:14:33 [INFO] 模拟响应: 成功
+18:14:33 [INFO] 模拟执行: query_actor
+18:14:33 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:33 [INFO] 请求ID: query_actor_1756462472803
+18:14:33 [INFO] 模拟响应: 成功
+18:14:33 [INFO] 模拟执行: query_actor
+18:14:33 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:33 [INFO] 请求ID: query_actor_1756462472803
+18:14:33 [INFO] 模拟响应: 成功
+18:14:34 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:34 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:34 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:34 [INFO] 模拟执行: player_baseinfo_query
+18:14:34 [INFO] 参数: {}
+18:14:34 [INFO] 请求ID: player_baseinfo_query_1756462474629
+18:14:34 [INFO] 模拟响应: 成功
+18:14:34 [INFO] 模拟执行: screen_info_query
+18:14:34 [INFO] 参数: {}
+18:14:34 [INFO] 请求ID: screen_info_query_1756462474629
+18:14:34 [INFO] 模拟响应: 成功
+18:14:34 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:34 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:34 [INFO] 模拟执行: query_production_queue
+18:14:34 [INFO] 参数: {"queueType": "Building"}
+18:14:34 [INFO] 请求ID: query_production_queue_1756462474629
+18:14:34 [INFO] 模拟响应: 成功
+18:14:34 [INFO] 模拟执行: query_production_queue
+18:14:34 [INFO] 参数: {"queueType": "Infantry"}
+18:14:34 [INFO] 请求ID: query_production_queue_1756462474629
+18:14:34 [INFO] 模拟响应: 成功
+18:14:35 [INFO] 模拟执行: query_production_queue
+18:14:35 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:35 [INFO] 请求ID: query_production_queue_1756462474629
+18:14:35 [INFO] 模拟响应: 成功
+18:14:35 [INFO] 模拟执行: query_production_queue
+18:14:35 [INFO] 参数: {"queueType": "Defense"}
+18:14:35 [INFO] 请求ID: query_production_queue_1756462474629
+18:14:35 [INFO] 模拟响应: 成功
+18:14:35 [INFO] 模拟执行: query_production_queue
+18:14:35 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:35 [INFO] 请求ID: query_production_queue_1756462474629
+18:14:35 [INFO] 模拟响应: 成功
+18:14:35 [INFO] 模拟执行: query_actor
+18:14:35 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:35 [INFO] 请求ID: query_actor_1756462474790
+18:14:35 [INFO] 模拟响应: 成功
+18:14:35 [INFO] 模拟执行: query_actor
+18:14:35 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:35 [INFO] 请求ID: query_actor_1756462474790
+18:14:35 [INFO] 模拟响应: 成功
+18:14:36 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:36 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:36 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:36 [INFO] 模拟执行: player_baseinfo_query
+18:14:36 [INFO] 参数: {}
+18:14:36 [INFO] 请求ID: player_baseinfo_query_1756462476640
+18:14:36 [INFO] 模拟响应: 成功
+18:14:36 [INFO] 模拟执行: screen_info_query
+18:14:36 [INFO] 参数: {}
+18:14:36 [INFO] 请求ID: screen_info_query_1756462476641
+18:14:36 [INFO] 模拟响应: 成功
+18:14:36 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:36 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:36 [INFO] 模拟执行: query_production_queue
+18:14:36 [INFO] 参数: {"queueType": "Building"}
+18:14:36 [INFO] 请求ID: query_production_queue_1756462476641
+18:14:36 [INFO] 模拟响应: 成功
+18:14:36 [INFO] 模拟执行: query_production_queue
+18:14:36 [INFO] 参数: {"queueType": "Infantry"}
+18:14:36 [INFO] 请求ID: query_production_queue_1756462476641
+18:14:36 [INFO] 模拟响应: 成功
+18:14:37 [INFO] 模拟执行: query_production_queue
+18:14:37 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:37 [INFO] 请求ID: query_production_queue_1756462476641
+18:14:37 [INFO] 模拟响应: 成功
+18:14:37 [INFO] 模拟执行: query_production_queue
+18:14:37 [INFO] 参数: {"queueType": "Defense"}
+18:14:37 [INFO] 请求ID: query_production_queue_1756462476641
+18:14:37 [INFO] 模拟响应: 成功
+18:14:37 [INFO] 模拟执行: query_production_queue
+18:14:37 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:37 [INFO] 请求ID: query_production_queue_1756462476641
+18:14:37 [INFO] 模拟响应: 成功
+18:14:37 [INFO] 模拟执行: query_actor
+18:14:37 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:37 [INFO] 请求ID: query_actor_1756462476773
+18:14:37 [INFO] 模拟响应: 成功
+18:14:37 [INFO] 模拟执行: query_actor
+18:14:37 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:37 [INFO] 请求ID: query_actor_1756462476773
+18:14:37 [INFO] 模拟响应: 成功
+18:14:38 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:38 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:38 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:38 [INFO] 模拟执行: player_baseinfo_query
+18:14:38 [INFO] 参数: {}
+18:14:38 [INFO] 请求ID: player_baseinfo_query_1756462478658
+18:14:38 [INFO] 模拟响应: 成功
+18:14:38 [INFO] 模拟执行: screen_info_query
+18:14:38 [INFO] 参数: {}
+18:14:38 [INFO] 请求ID: screen_info_query_1756462478659
+18:14:38 [INFO] 模拟响应: 成功
+18:14:38 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:38 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:38 [INFO] 模拟执行: query_production_queue
+18:14:38 [INFO] 参数: {"queueType": "Building"}
+18:14:38 [INFO] 请求ID: query_production_queue_1756462478659
+18:14:38 [INFO] 模拟响应: 成功
+18:14:38 [INFO] 模拟执行: query_production_queue
+18:14:38 [INFO] 参数: {"queueType": "Infantry"}
+18:14:38 [INFO] 请求ID: query_production_queue_1756462478659
+18:14:38 [INFO] 模拟响应: 成功
+18:14:39 [INFO] 模拟执行: query_production_queue
+18:14:39 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:39 [INFO] 请求ID: query_production_queue_1756462478659
+18:14:39 [INFO] 模拟响应: 成功
+18:14:39 [INFO] 模拟执行: query_production_queue
+18:14:39 [INFO] 参数: {"queueType": "Defense"}
+18:14:39 [INFO] 请求ID: query_production_queue_1756462478659
+18:14:39 [INFO] 模拟响应: 成功
+18:14:39 [INFO] 模拟执行: query_production_queue
+18:14:39 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:39 [INFO] 请求ID: query_production_queue_1756462478659
+18:14:39 [INFO] 模拟响应: 成功
+18:14:39 [INFO] 模拟执行: query_actor
+18:14:39 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:39 [INFO] 请求ID: query_actor_1756462478778
+18:14:39 [INFO] 模拟响应: 成功
+18:14:39 [INFO] 模拟执行: query_actor
+18:14:39 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:39 [INFO] 请求ID: query_actor_1756462478779
+18:14:39 [INFO] 模拟响应: 成功
+18:14:40 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:40 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:40 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:40 [INFO] 模拟执行: player_baseinfo_query
+18:14:40 [INFO] 参数: {}
+18:14:40 [INFO] 请求ID: player_baseinfo_query_1756462480675
+18:14:40 [INFO] 模拟响应: 成功
+18:14:40 [INFO] 模拟执行: screen_info_query
+18:14:40 [INFO] 参数: {}
+18:14:40 [INFO] 请求ID: screen_info_query_1756462480676
+18:14:40 [INFO] 模拟响应: 成功
+18:14:40 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:40 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:40 [INFO] 模拟执行: query_production_queue
+18:14:40 [INFO] 参数: {"queueType": "Building"}
+18:14:40 [INFO] 请求ID: query_production_queue_1756462480676
+18:14:40 [INFO] 模拟响应: 成功
+18:14:41 [INFO] 模拟执行: query_production_queue
+18:14:41 [INFO] 参数: {"queueType": "Infantry"}
+18:14:41 [INFO] 请求ID: query_production_queue_1756462480676
+18:14:41 [INFO] 模拟响应: 成功
+18:14:41 [INFO] 模拟执行: query_production_queue
+18:14:41 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:41 [INFO] 请求ID: query_production_queue_1756462480676
+18:14:41 [INFO] 模拟响应: 成功
+18:14:41 [INFO] 模拟执行: query_production_queue
+18:14:41 [INFO] 参数: {"queueType": "Defense"}
+18:14:41 [INFO] 请求ID: query_production_queue_1756462480676
+18:14:41 [INFO] 模拟响应: 成功
+18:14:41 [INFO] 模拟执行: query_production_queue
+18:14:41 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:41 [INFO] 请求ID: query_production_queue_1756462480676
+18:14:41 [INFO] 模拟响应: 成功
+18:14:41 [INFO] 模拟执行: query_actor
+18:14:41 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:41 [INFO] 请求ID: query_actor_1756462480856
+18:14:41 [INFO] 模拟响应: 成功
+18:14:41 [INFO] 模拟执行: query_actor
+18:14:41 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:41 [INFO] 请求ID: query_actor_1756462480856
+18:14:41 [INFO] 模拟响应: 成功
+18:14:42 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:42 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:42 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:42 [INFO] 模拟执行: player_baseinfo_query
+18:14:42 [INFO] 参数: {}
+18:14:42 [INFO] 请求ID: player_baseinfo_query_1756462482694
+18:14:42 [INFO] 模拟响应: 成功
+18:14:42 [INFO] 模拟执行: screen_info_query
+18:14:42 [INFO] 参数: {}
+18:14:42 [INFO] 请求ID: screen_info_query_1756462482694
+18:14:42 [INFO] 模拟响应: 成功
+18:14:42 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:42 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:42 [INFO] 模拟执行: query_production_queue
+18:14:42 [INFO] 参数: {"queueType": "Building"}
+18:14:42 [INFO] 请求ID: query_production_queue_1756462482694
+18:14:42 [INFO] 模拟响应: 成功
+18:14:43 [INFO] 模拟执行: query_production_queue
+18:14:43 [INFO] 参数: {"queueType": "Infantry"}
+18:14:43 [INFO] 请求ID: query_production_queue_1756462482694
+18:14:43 [INFO] 模拟响应: 成功
+18:14:43 [INFO] 模拟执行: query_production_queue
+18:14:43 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:43 [INFO] 请求ID: query_production_queue_1756462482694
+18:14:43 [INFO] 模拟响应: 成功
+18:14:43 [INFO] 模拟执行: query_production_queue
+18:14:43 [INFO] 参数: {"queueType": "Defense"}
+18:14:43 [INFO] 请求ID: query_production_queue_1756462482694
+18:14:43 [INFO] 模拟响应: 成功
+18:14:43 [INFO] 模拟执行: query_production_queue
+18:14:43 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:43 [INFO] 请求ID: query_production_queue_1756462482694
+18:14:43 [INFO] 模拟响应: 成功
+18:14:43 [INFO] 模拟执行: query_actor
+18:14:43 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:43 [INFO] 请求ID: query_actor_1756462482838
+18:14:43 [INFO] 模拟响应: 成功
+18:14:43 [INFO] 模拟执行: query_actor
+18:14:43 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:43 [INFO] 请求ID: query_actor_1756462482838
+18:14:43 [INFO] 模拟响应: 成功
+18:14:44 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:44 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:44 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:44 [INFO] 模拟执行: player_baseinfo_query
+18:14:44 [INFO] 参数: {}
+18:14:44 [INFO] 请求ID: player_baseinfo_query_1756462484711
+18:14:44 [INFO] 模拟响应: 成功
+18:14:44 [INFO] 模拟执行: screen_info_query
+18:14:44 [INFO] 参数: {}
+18:14:44 [INFO] 请求ID: screen_info_query_1756462484712
+18:14:44 [INFO] 模拟响应: 成功
+18:14:44 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:44 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:44 [INFO] 模拟执行: query_production_queue
+18:14:44 [INFO] 参数: {"queueType": "Building"}
+18:14:44 [INFO] 请求ID: query_production_queue_1756462484712
+18:14:44 [INFO] 模拟响应: 成功
+18:14:45 [INFO] 模拟执行: query_production_queue
+18:14:45 [INFO] 参数: {"queueType": "Infantry"}
+18:14:45 [INFO] 请求ID: query_production_queue_1756462484712
+18:14:45 [INFO] 模拟响应: 成功
+18:14:45 [INFO] 模拟执行: query_production_queue
+18:14:45 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:45 [INFO] 请求ID: query_production_queue_1756462484712
+18:14:45 [INFO] 模拟响应: 成功
+18:14:45 [INFO] 模拟执行: query_production_queue
+18:14:45 [INFO] 参数: {"queueType": "Defense"}
+18:14:45 [INFO] 请求ID: query_production_queue_1756462484712
+18:14:45 [INFO] 模拟响应: 成功
+18:14:45 [INFO] 模拟执行: query_production_queue
+18:14:45 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:45 [INFO] 请求ID: query_production_queue_1756462484712
+18:14:45 [INFO] 模拟响应: 成功
+18:14:45 [INFO] 模拟执行: query_actor
+18:14:45 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:45 [INFO] 请求ID: query_actor_1756462484818
+18:14:45 [INFO] 模拟响应: 成功
+18:14:45 [INFO] 模拟执行: query_actor
+18:14:45 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:45 [INFO] 请求ID: query_actor_1756462484818
+18:14:45 [INFO] 模拟响应: 成功
+18:14:46 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:46 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:46 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:46 [INFO] 模拟执行: player_baseinfo_query
+18:14:46 [INFO] 参数: {}
+18:14:46 [INFO] 请求ID: player_baseinfo_query_1756462486720
+18:14:46 [INFO] 模拟响应: 成功
+18:14:46 [INFO] 模拟执行: screen_info_query
+18:14:46 [INFO] 参数: {}
+18:14:46 [INFO] 请求ID: screen_info_query_1756462486720
+18:14:46 [INFO] 模拟响应: 成功
+18:14:46 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:46 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:46 [INFO] 模拟执行: query_production_queue
+18:14:46 [INFO] 参数: {"queueType": "Building"}
+18:14:46 [INFO] 请求ID: query_production_queue_1756462486720
+18:14:46 [INFO] 模拟响应: 成功
+18:14:47 [INFO] 模拟执行: query_production_queue
+18:14:47 [INFO] 参数: {"queueType": "Infantry"}
+18:14:47 [INFO] 请求ID: query_production_queue_1756462486720
+18:14:47 [INFO] 模拟响应: 成功
+18:14:47 [INFO] 模拟执行: query_production_queue
+18:14:47 [INFO] 参数: {"queueType": "Vehicle"}
+18:14:47 [INFO] 请求ID: query_production_queue_1756462486720
+18:14:47 [INFO] 模拟响应: 成功
+18:14:47 [INFO] 模拟执行: query_production_queue
+18:14:47 [INFO] 参数: {"queueType": "Defense"}
+18:14:47 [INFO] 请求ID: query_production_queue_1756462486720
+18:14:47 [INFO] 模拟响应: 成功
+18:14:47 [INFO] 模拟执行: query_production_queue
+18:14:47 [INFO] 参数: {"queueType": "Aircraft"}
+18:14:47 [INFO] 请求ID: query_production_queue_1756462486720
+18:14:47 [INFO] 模拟响应: 成功
+18:14:47 [INFO] 模拟执行: query_actor
+18:14:47 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:14:47 [INFO] 请求ID: query_actor_1756462486898
+18:14:47 [INFO] 模拟响应: 成功
+18:14:47 [INFO] 模拟执行: query_actor
+18:14:47 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:14:47 [INFO] 请求ID: query_actor_1756462486898
+18:14:47 [INFO] 模拟响应: 成功
+18:14:48 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:14:48 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:14:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:48 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:14:48 [INFO] 模拟执行: player_baseinfo_query
+18:14:48 [INFO] 参数: {}
+18:14:48 [INFO] 请求ID: player_baseinfo_query_1756462488740
+18:14:48 [INFO] 模拟响应: 成功
+18:14:48 [INFO] 模拟执行: screen_info_query
+18:14:48 [INFO] 参数: {}
+18:14:48 [INFO] 请求ID: screen_info_query_1756462488740
+18:14:48 [INFO] 模拟响应: 成功
+18:14:48 [INFO] 命令已入队: query_actor (优先级: 3)
+18:14:48 [INFO] 命令已入队: query_actor (优先级: 3)
+18:22:51 [INFO] 已启动
+18:22:51 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:22:51 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:22:51 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:51 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:51 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:51 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:51 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:51 [INFO] 模拟执行: player_baseinfo_query
+18:22:51 [INFO] 参数: {}
+18:22:51 [INFO] 请求ID: player_baseinfo_query_1756462971554
+18:22:51 [INFO] 模拟响应: 成功
+18:22:51 [INFO] 模拟执行: screen_info_query
+18:22:51 [INFO] 参数: {}
+18:22:51 [INFO] 请求ID: screen_info_query_1756462971554
+18:22:51 [INFO] 模拟响应: 成功
+18:22:51 [INFO] 命令已入队: query_actor (优先级: 3)
+18:22:51 [INFO] 命令已入队: query_actor (优先级: 3)
+18:22:51 [INFO] 模拟执行: query_production_queue
+18:22:51 [INFO] 参数: {"queueType": "Building"}
+18:22:51 [INFO] 请求ID: query_production_queue_1756462971554
+18:22:51 [INFO] 模拟响应: 成功
+18:22:51 [INFO] 模拟执行: query_production_queue
+18:22:51 [INFO] 参数: {"queueType": "Infantry"}
+18:22:51 [INFO] 请求ID: query_production_queue_1756462971554
+18:22:51 [INFO] 模拟响应: 成功
+18:22:52 [INFO] 模拟执行: query_production_queue
+18:22:52 [INFO] 参数: {"queueType": "Vehicle"}
+18:22:52 [INFO] 请求ID: query_production_queue_1756462971554
+18:22:52 [INFO] 模拟响应: 成功
+18:22:52 [INFO] 模拟执行: query_production_queue
+18:22:52 [INFO] 参数: {"queueType": "Defense"}
+18:22:52 [INFO] 请求ID: query_production_queue_1756462971554
+18:22:52 [INFO] 模拟响应: 成功
+18:22:52 [INFO] 模拟执行: query_production_queue
+18:22:52 [INFO] 参数: {"queueType": "Aircraft"}
+18:22:52 [INFO] 请求ID: query_production_queue_1756462971554
+18:22:52 [INFO] 模拟响应: 成功
+18:22:52 [INFO] 模拟执行: query_actor
+18:22:52 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:22:52 [INFO] 请求ID: query_actor_1756462971761
+18:22:52 [INFO] 模拟响应: 成功
+18:22:52 [INFO] 模拟执行: query_actor
+18:22:52 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:22:52 [INFO] 请求ID: query_actor_1756462971761
+18:22:52 [INFO] 模拟响应: 成功
+18:22:53 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:22:53 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:22:53 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:53 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:53 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:53 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:53 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:53 [INFO] 模拟执行: player_baseinfo_query
+18:22:53 [INFO] 参数: {}
+18:22:53 [INFO] 请求ID: player_baseinfo_query_1756462973577
+18:22:53 [INFO] 模拟响应: 成功
+18:22:53 [INFO] 模拟执行: screen_info_query
+18:22:53 [INFO] 参数: {}
+18:22:53 [INFO] 请求ID: screen_info_query_1756462973577
+18:22:53 [INFO] 模拟响应: 成功
+18:22:53 [INFO] 命令已入队: query_actor (优先级: 3)
+18:22:53 [INFO] 命令已入队: query_actor (优先级: 3)
+18:22:53 [INFO] 模拟执行: query_production_queue
+18:22:53 [INFO] 参数: {"queueType": "Building"}
+18:22:53 [INFO] 请求ID: query_production_queue_1756462973577
+18:22:53 [INFO] 模拟响应: 成功
+18:22:53 [INFO] 模拟执行: query_production_queue
+18:22:53 [INFO] 参数: {"queueType": "Infantry"}
+18:22:53 [INFO] 请求ID: query_production_queue_1756462973577
+18:22:53 [INFO] 模拟响应: 成功
+18:22:54 [INFO] 模拟执行: query_production_queue
+18:22:54 [INFO] 参数: {"queueType": "Vehicle"}
+18:22:54 [INFO] 请求ID: query_production_queue_1756462973577
+18:22:54 [INFO] 模拟响应: 成功
+18:22:54 [INFO] 模拟执行: query_production_queue
+18:22:54 [INFO] 参数: {"queueType": "Defense"}
+18:22:54 [INFO] 请求ID: query_production_queue_1756462973577
+18:22:54 [INFO] 模拟响应: 成功
+18:22:54 [INFO] 模拟执行: query_production_queue
+18:22:54 [INFO] 参数: {"queueType": "Aircraft"}
+18:22:54 [INFO] 请求ID: query_production_queue_1756462973577
+18:22:54 [INFO] 模拟响应: 成功
+18:22:54 [INFO] 模拟执行: query_actor
+18:22:54 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:22:54 [INFO] 请求ID: query_actor_1756462973737
+18:22:54 [INFO] 模拟响应: 成功
+18:22:54 [INFO] 模拟执行: query_actor
+18:22:54 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:22:54 [INFO] 请求ID: query_actor_1756462973737
+18:22:54 [INFO] 模拟响应: 成功
+18:22:55 [INFO] 命令已入队: player_baseinfo_query (优先级: 3)
+18:22:55 [INFO] 命令已入队: screen_info_query (优先级: 3)
+18:22:55 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:55 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:55 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:55 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:55 [INFO] 命令已入队: query_production_queue (优先级: 3)
+18:22:55 [INFO] 模拟执行: player_baseinfo_query
+18:22:55 [INFO] 参数: {}
+18:22:55 [INFO] 请求ID: player_baseinfo_query_1756462975587
+18:22:55 [INFO] 模拟响应: 成功
+18:22:55 [INFO] 模拟执行: screen_info_query
+18:22:55 [INFO] 参数: {}
+18:22:55 [INFO] 请求ID: screen_info_query_1756462975587
+18:22:55 [INFO] 模拟响应: 成功
+18:22:55 [INFO] 命令已入队: query_actor (优先级: 3)
+18:22:55 [INFO] 命令已入队: query_actor (优先级: 3)
+18:22:55 [INFO] 模拟执行: query_production_queue
+18:22:55 [INFO] 参数: {"queueType": "Building"}
+18:22:55 [INFO] 请求ID: query_production_queue_1756462975587
+18:22:55 [INFO] 模拟响应: 成功
+18:22:55 [INFO] 模拟执行: query_production_queue
+18:22:55 [INFO] 参数: {"queueType": "Infantry"}
+18:22:55 [INFO] 请求ID: query_production_queue_1756462975587
+18:22:55 [INFO] 模拟响应: 成功
+18:22:56 [INFO] 模拟执行: query_production_queue
+18:22:56 [INFO] 参数: {"queueType": "Vehicle"}
+18:22:56 [INFO] 请求ID: query_production_queue_1756462975587
+18:22:56 [INFO] 模拟响应: 成功
+18:22:56 [INFO] 模拟执行: query_production_queue
+18:22:56 [INFO] 参数: {"queueType": "Defense"}
+18:22:56 [INFO] 请求ID: query_production_queue_1756462975587
+18:22:56 [INFO] 模拟响应: 成功
+18:22:56 [INFO] 模拟执行: query_production_queue
+18:22:56 [INFO] 参数: {"queueType": "Aircraft"}
+18:22:56 [INFO] 请求ID: query_production_queue_1756462975587
+18:22:56 [INFO] 模拟响应: 成功
+18:22:56 [INFO] 模拟执行: query_actor
+18:22:56 [INFO] 参数: {"targets": {"faction": "己方", "range": "screen"}}
+18:22:56 [INFO] 请求ID: query_actor_1756462975699
+18:22:56 [INFO] 模拟响应: 成功
+18:22:56 [INFO] 模拟执行: query_actor
+18:22:56 [INFO] 参数: {"targets": {"faction": "敌方", "range": "screen"}}
+18:22:56 [INFO] 请求ID: query_actor_1756462975699
+18:22:56 [INFO] 模拟响应: 成功
+18:22:56 [INFO] 已停止
